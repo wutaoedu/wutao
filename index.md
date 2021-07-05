@@ -17,9 +17,7 @@
 <html>  
     <head></head>  
     <body>  
-        <div>a</div>  
         <hr />  
-        <div>b</div>  
     </body>  
 </html>  
 #### 1.*******
