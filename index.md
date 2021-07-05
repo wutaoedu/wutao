@@ -14,6 +14,10 @@
   </tr>
 </table>
 ### 个人简介
+<style>
+input[type="text"]{border-bottom:solid 1px #ccc;}
+<style>
+<input type="text"/>
 #### 1.*******
 ### 主要研究领域
 #### 2.*******
