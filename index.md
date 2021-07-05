@@ -14,10 +14,14 @@
   </tr>
 </table>
 ### 个人简介
-<style>
-input[type="text"]{border-bottom:solid 1px #ccc;}
-<style>
-<input type="text"/>
+<html>  
+    <head></head>  
+    <body>  
+        <div>a</div>  
+        <hr />  
+        <div>b</div>  
+    </body>  
+</html>  
 #### 1.*******
 ### 主要研究领域
 #### 2.*******
