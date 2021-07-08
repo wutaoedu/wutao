@@ -29,7 +29,7 @@
   <p><b> 主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</b></p>
 </html> 
 <html>  
-    <head>教育背景</head>  
+    <h1>教育背景</h1>  
     <body>  
         <hr />  
     </body>
