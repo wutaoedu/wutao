@@ -57,8 +57,11 @@
         <hr />  
     </body> 
   <head>一、期刊论文</head>
-  <p><b>复活甲按客户发开发哈科技</b></p>
+  <p><b>1.</b></p>
   <head>二、会议论文</head>
+  <p><b>2.</b></p>
   <head>三、发明专利</head>
+  <p><b>3.</b></p>
   <head>四、学术奖励</head>
+  <p><b>4.</b></p>
 </html> 
