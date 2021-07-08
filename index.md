@@ -57,7 +57,15 @@
         <hr />  
     </body> 
   <head>一、期刊论文</head>
-  <p><b>1.</b></p>
+  <p><b>[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</b></p>
+  <p><b>[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.</b></p>
+  <p><b>[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Chao Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Structure Prediction Models. Neurocomputing , 2021: 437,168–185. </b></p>
+  <p><b>[4]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020,218:106674.</b></p>
+  <p><b>[5]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetSRE: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020, 196: 105800.</b></p>
+  <p><b>[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).</b></p>
+  <p><b>[7]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.</b></p>
+  <p><b>[8]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</b></p>
+  <p><b>[9]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). </b></p>
   <head>二、会议论文</head>
   <p><b>2.</b></p>
   <head>三、发明专利</head>
