@@ -80,7 +80,16 @@
     </body>
   <head><font style="font-family:宋体" font size="5">二、会议论文</font><br /></head>
   <body>
-   <font style="font-family:宋体" font size="4">    </font><br />
+   <font style="font-family:宋体" font size="4">[1]Qun Liu, Xingping Xian, Songtao Guo, Tao Wu. Research on Cooperative Packet Forwarding and Punishment Mechanism in Wireless Sensor Networks [C]. IEEE International Conference on Granular Computing, 2010. (EI)</font><br />
+<font style="font-family:宋体" font size="4">[2]Qun Liu, Xingping Xian, Tao Wu, Game theoretic approach in routing protocol for cooperative wireless sensor networks [C], International Conference in Swarm Intelligence 2011: Advances in Swarm Intelligence, Berlin, Heidelberg, 2011. (EI 000309148700025)</font><br />
+<font style="font-family:宋体" font size="4">[3]Tao Wu, Leiting Chen, Yayong Guan, Xin Li, Yuxiao Guo. LPA based Hierarchical Community Detection [C], IEEE 17th International Conference on Computational Science and Engineering (CSE), Chengdu, 19-21 Dec. 2015 (EI 000380512100031).</font><br />
+<font style="font-family:宋体" font size="4">[4]Yayong Guan, Tao Wu, Jin Ning, Hong-Bin Cai. Hybrid attributes similarity measurement for spectral clustering [C], 11th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), Chengdu, 19-21 Dec. 2014 (EI, 20151700788342).</font><br />
+<font style="font-family:宋体" font size="4">[5]Guannan Ming, Tao Wu, Xiaofeng  Liao, Xingping Xian. Structural Predictability Regulation for Graph data[C], IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering. IEEE, 2019.</font><br />
+<font style="font-family:宋体" font size="4">[6]Jing Zhu, Tao Wu, Jintao Li, Yanbin Liu, Qixin Jiang. Multi-keyword Cipher-text Retrieval Method for Smart Grid Edge Computing, 会议，2020</font><br />
+<font style="font-family:宋体" font size="4">[7]Yanwen Guo, Tao Wu, Yanbin Liu, Yixin Jiang. Univariate Forecasting Based on Improved Seq2Seq at the Edge of Power Grid, 会议，2020</font><br />
+<font style="font-family:宋体" font size="4">[8]王雪纯, 黄少平, 许爱东, 吴涛, 郭延文, 蒋屹新, 张宇男. 智能电网中边缘终端数据隐私保护方法【J】,南方电网技术, 2020, 14 (3) :74-79.</font><br />
+<font style="font-family:宋体" font size="4">[9]Aidong Xu, Xuechun Wang, Yunan Zhang, Tao Wu, Xingping Xian. Adversarial Attacks on Deep Neural Networks for Time Series Prediction, ICICSE, 2021.</font><br />
+<font style="font-family:宋体" font size="4">[10]Aidong Xu, Tao Wu, Yunan Zhang, Zhiwei Hu, Yixin Jiang. Graph-Based Time Series Edge Anomaly Detection in Smart Grid，BigDataSecurity, 2021.</font><br />
     </body>
   <head><font style="font-family:宋体" font size="5">三、发明专利</font><br /></head>
    <font style="font-family:宋体" font size="4">    </font><br />
