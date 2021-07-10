@@ -16,6 +16,11 @@
     </td>
   </tr>
 </table>
+<html>
+<a href="famingzhuanli.github.io">
+    <button>发明专利</button>
+</a>
+  </html>
 <html>  
     <h1>个人简介</h1>  
     <body>  
