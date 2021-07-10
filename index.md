@@ -105,5 +105,24 @@
 <font style="font-family:宋体" font size="4">[11]李鹏，吴涛，许爱东，郭延文，明哲，徐光侠，先兴平. 面向电力系统中边缘节点的轻量级数据管理系统及方法. 受理号: 201811636585.0.</font><br />
 <font style="font-family:宋体" font size="4">[12]许爱东，吴涛，张宇南，胡志伟，曹扬，先兴平. 基于边缘终端的角色访问控制系统. 受理号:201811636506.6.</font><br />
   <head><font style="font-family:宋体" font size="5">四、学术奖励</font><br /></head>
-   <font style="font-family:宋体" font size="4">    </font><br />
+   <font style="font-family:宋体" font size="4">基于物理特性的移动网络安全与可靠技术及应用（9512018Y1411），电子科技大学、南方电网科学研究院有限责任公司、重庆邮电大学，文红、蒋屹新、朱西平、刘宴兵、许爱东、李鹏、唐杰、吴涛，2018年度四川省科学技术进步奖科技进步类二等奖。</font><br />
+</html> 
+<html>  
+    <h1>现有成果概述</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:宋体" font size="4">1）图数据挖掘（复杂网络）：随着社交媒体以及智慧城市等相关应用的普及与发展，海量的网络数据对传统数据挖掘技术提出了新的挑战。本人关注网络数据分析领域的基础科学问题，包括社团检测[1]、节点排序[2] [3]、链路预测[4] [5]、信息传播问题[6-10]。基于图进行网络数据建模，希望通过对以上相关问题的研究，为网络数据这种新型数据的分析与利用提供技术支撑；社团检测[Physica A’2016]、节点排序[Physica A’ 2017, Physica A’ 2018]、链路预测[4] [5]、信息传播问题[6-10]
+[1]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,448:68-80 (SCI, Impact Factor: 2.132).
+[2]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132).
+[3]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ).
+[4]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.
+[5]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,465:662-672 (SCI, Impact Factor: 2.132).
+[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).
+[7]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. https://doi.org/10.1063/1.5114853.
+[8]Shuai Zhang, Wei Wang, Tao Wu, and Tao Lin, Phase transition of a generalized contact process on complex Networks. Physica A, 2019, 534:122218.
+[9]Shuang Zhang, Tao Wu, Wei Wang, and Tao Lin. Irreversible contact process on complex networks with dynamical recovery probability, Physica A, 527, 121336, 2019 (SCI, Impact Factor: 2.500).
+[10]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 44(12).</font><br />     
+    </body>
 </html> 
