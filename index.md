@@ -54,7 +54,7 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="zhuyaoxiangmu.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">主要项目</font></button>
     </body>
@@ -62,7 +62,7 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="yanjiuchengguo.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">研究成果</font></button>
    </body>
@@ -70,7 +70,7 @@
  </html>
  
    <html>
-<a href="famingzhuanli.github.io">
+<a href="chengguogaishu.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">成果概述</font></button>
     </body>
@@ -78,7 +78,7 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="xiangmugaishu.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">项目概述</font></button>
     </body>
@@ -86,7 +86,7 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="yanjiujichu.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">研究基础</font></button>
     </body>
@@ -94,21 +94,13 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="kexuewenti.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">科学问题</font></button>
     </body>
 </a>
   </html>
-<html>  
-    <h1>主要研究领域</h1>  
-    <body>  
-        <hr />  
-    </body>
-  <body>
-  <font style="font-family:宋体" font size="4">主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />
-    </body>
-</html> 
+
 <html>  
     <h1>主要项目</h1>  
     <body>  
