@@ -3,12 +3,12 @@
     <td width="75%">
       <h1>吴涛 Wu Tao</h1>
       <body>
-      <font style="font-family:宋体" font size="4">副教授、博士、硕士生导师</font><br />
-      <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
-      <font style="font-family:宋体" font size="4">网络空间安全专业</font><br />
-      <font style="font-family:宋体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
-      <font style="font-family:宋体" font size="4">联系方式：+86 15884569957</font><br />
-      <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
+      <font style="font-family:宋体" font size="5">副教授、博士、硕士生导师</font><br />
+      <font style="font-family:宋体" font size="5">重庆邮电大学网络空间安全学院与信息法学院</font><br />
+      <font style="font-family:宋体" font size="5">网络空间安全专业</font><br />
+      <font style="font-family:宋体" font size="5">邮箱：wutao@cqupt.edu.cn</font><br />
+      <font style="font-family:宋体" font size="5">联系方式：+86 15884569957</font><br />
+      <font style="font-family:宋体" font size="5">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
         </body>
     </td>
     <td width="25%">
@@ -39,7 +39,7 @@
     <body>  
         <hr />  
     </body>
-  <>body>
+  <body>
   <font style="font-family:宋体" font size="4">2013.9-2017.6, 电子科技大学, 计算机应用技术, 博士, 导师: 陈雷霆</font><br />
   <font style="font-family:宋体" font size="4">2008.9-2011.6, 重庆邮电大学, 计算机应用技术, 硕士, 导师: 刘宴兵</font><br />
   <font style="font-family:宋体" font size="4">2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</font><br />
@@ -67,17 +67,21 @@
         <hr />  
     </body> 
   <head>一、期刊论文</head>
-  <p><b>[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</b></p>
-  <p><b>[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.</b></p>
-  <p><b>[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Chao Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Structure Prediction Models. Neurocomputing , 2021: 437,168–185. </b></p>
-  <p><b>[4]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020,218:106674.</b></p>
-  <p><b>[5]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetSRE: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020, 196: 105800.</b></p>
-  <p><b>[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).</b></p>
-  <p><b>[7]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.</b></p>
-  <p><b>[8]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</b></p>
-  <p><b>[9]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). </b></p>
+  <body>
+  <font style="font-family:宋体" font size="4">[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</font><br />
+  <font style="font-family:宋体" font size="4">[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.</font><br />
+  <font style="font-family:宋体" font size="4">[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Chao Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Structure Prediction Models. Neurocomputing , 2021: 437,168–185. </font><br />
+  <font style="font-family:宋体" font size="4">[4]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020,218:106674.</font><br />
+  <font style="font-family:宋体" font size="4">[5]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetSRE: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020, 196: 105800.</font><br />
+  <font style="font-family:宋体" font size="4">[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).</font><br />
+  <font style="font-family:宋体" font size="4">[7]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.</font><br />
+  <font style="font-family:宋体" font size="4">[8]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</font><br />
+  <font style="font-family:宋体" font size="4">[9]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). </font><br />
+    </body>
   <head>二、会议论文</head>
-  <p><b>2.</b></p>
+  <body>
+   <font style="font-family:宋体" font size="4">    </font><br />
+    </body>
   <head>三、发明专利</head>
   <p><b>3.</b></p>
   <head>四、学术奖励</head>
