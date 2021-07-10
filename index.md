@@ -18,11 +18,21 @@
 </table>
 <html>
 <a href="famingzhuanli.github.io">
-    <button>发明专利</button>
+    <button>个人简介</button>
+</a>
+  </html>
+  <html>
+<a href="famingzhuanli.github.io">
+    <button>主要研究领域</button>
+</a>
+  </html>
+    <html>
+<a href="famingzhuanli.github.io">
+    <button>主要研究领域</button>
 </a>
   </html>
 <html>  
-    <h1>个人简介</h1>  
+    <h1>教育背景</h1>  
     <body>  
         <hr />  
     </body> 
