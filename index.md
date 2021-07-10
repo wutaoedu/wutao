@@ -66,7 +66,7 @@
     <body>  
         <hr />  
     </body> 
-  <head><font style="font-family:宋体" font size="6">一、期刊论文</font><br /></head>
+  <head><font style="font-family:宋体" font size="5">一、期刊论文</font><br /></head>
   <body>
   <font style="font-family:宋体" font size="4">[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</font><br />
   <font style="font-family:宋体" font size="4">[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.</font><br />
@@ -78,12 +78,12 @@
   <font style="font-family:宋体" font size="4">[8]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</font><br />
   <font style="font-family:宋体" font size="4">[9]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). </font><br />
     </body>
-  <head>二、会议论文</head>
+  <head><font style="font-family:宋体" font size="5">二、会议论文</font><br /></head>
   <body>
    <font style="font-family:宋体" font size="4">    </font><br />
     </body>
-  <head>三、发明专利</head>
-  <p><b>3.</b></p>
-  <head>四、学术奖励</head>
-  <p><b>4.</b></p>
+  <head><font style="font-family:宋体" font size="5">三、发明专利</font><br /></head>
+   <font style="font-family:宋体" font size="4">    </font><br />
+  <head><font style="font-family:宋体" font size="5">四、学术奖励</font><br /></head>
+   <font style="font-family:宋体" font size="4">    </font><br />
 </html> 
