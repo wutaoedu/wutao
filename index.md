@@ -66,7 +66,7 @@
     <body>  
         <hr />  
     </body> 
-  <head>一、期刊论文</head>
+  <head><b>一、期刊论文</b></head>
   <body>
   <font style="font-family:宋体" font size="4">[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</font><br />
   <font style="font-family:宋体" font size="4">[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.</font><br />
