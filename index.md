@@ -19,6 +19,7 @@
 
   
 <html>  
+      <h1>个人简介</h1>  
     <body>  
         <hr />  
     </body> 
@@ -26,8 +27,19 @@
   <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全专业副教授、硕士生导师。主要从事智能算法安全、数据隐私保护、知识计算等方向的研究工作，是重庆邮电大学网络空间安全团队科研骨干。主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />     
     </body>
 </html>  
+<html>  
+    <h1>教育背景</h1>  
+    <body>  
+        <hr />  
+    </body>
+  <body>
+  <font style="font-family:宋体" font size="4">2013.9-2017.6, 电子科技大学, 计算机应用技术, 博士, 导师: 陈雷霆</font><br />
+  <font style="font-family:宋体" font size="4">2008.9-2011.6, 重庆邮电大学, 计算机应用技术, 硕士, 导师: 刘宴兵</font><br />
+  <font style="font-family:宋体" font size="4">2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</font><br />
+  </body>
+</html> 
 <html>
-<a href="famingzhuanli.github.io">
+<a href="gerenjianjie.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">个人简介</font></button>
     </body>
@@ -35,7 +47,7 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="yanjiulingyu.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">研究领域</font></button>
     </body>
@@ -43,7 +55,7 @@
   </html>
   
   <html>
-<a href="famingzhuanli.github.io">
+<a href="jiaoyubeijing.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">教育背景</font></button>
     </body>
@@ -105,17 +117,6 @@
   <body>
   <font style="font-family:宋体" font size="4">主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />
     </body>
-</html> 
-<html>  
-    <h1>教育背景</h1>  
-    <body>  
-        <hr />  
-    </body>
-  <body>
-  <font style="font-family:宋体" font size="4">2013.9-2017.6, 电子科技大学, 计算机应用技术, 博士, 导师: 陈雷霆</font><br />
-  <font style="font-family:宋体" font size="4">2008.9-2011.6, 重庆邮电大学, 计算机应用技术, 硕士, 导师: 刘宴兵</font><br />
-  <font style="font-family:宋体" font size="4">2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</font><br />
-  </body>
 </html> 
 <html>  
     <h1>主要项目</h1>  
