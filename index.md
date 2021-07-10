@@ -71,16 +71,14 @@
     </body>
 </a>
   </html>
-  
-    <html>
+  <html>
 <a href="famingzhuanli.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">已取得研究基础</font></button>
     </body>
 </a>
   </html>
-  
-      <html>
+  <html>
 <a href="famingzhuanli.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">拟研究具体科学问题</font></button>
