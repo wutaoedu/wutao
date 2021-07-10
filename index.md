@@ -18,7 +18,9 @@
 </table>
 <html>
 <a href="famingzhuanli.github.io">
+  <body>
     <button><font style="font-family:宋体" font size="6">个人简介</font></button>
+    </body>
 </a>
   </html>
   <html>
@@ -30,7 +32,9 @@
   </html>
     <html>
 <a href="famingzhuanli.github.io">
+  <body>
     <button><font style="font-family:宋体" font size="6">教育背景</font></button>
+    </body>
 </a>
   </html>
 <html>  
