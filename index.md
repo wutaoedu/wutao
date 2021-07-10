@@ -38,26 +38,10 @@
   <font style="font-family:宋体" font size="4">2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</font><br />
   </body>
 </html> 
-<html>
-<a href="gerenjianjie.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">个人简介</font></button>
-    </body>
-</a>
-  </html>
-  
   <html>
 <a href="yanjiulingyu.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">研究领域</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="jiaoyubeijing.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">教育背景</font></button>
     </body>
 </a>
   </html>
