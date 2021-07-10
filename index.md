@@ -37,7 +37,7 @@
   <html>
 <a href="famingzhuanli.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">主要研究领域</font></button>
+    <button><font style="font-family:宋体" font size="6">研究领域</font></button>
     </body>
 </a>
   </html>
@@ -61,7 +61,7 @@
   <html>
 <a href="famingzhuanli.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">代表性研究成果</font></button>
+    <button><font style="font-family:宋体" font size="6">研究成果</font></button>
    </body>
 </a>
  </html>
@@ -69,7 +69,7 @@
    <html>
 <a href="famingzhuanli.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">现有成果概述</font></button>
+    <button><font style="font-family:宋体" font size="6">成果概述</font></button>
     </body>
 </a>
   </html>
@@ -77,7 +77,7 @@
   <html>
 <a href="famingzhuanli.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">科研项目概述</font></button>
+    <button><font style="font-family:宋体" font size="6">项目概述</font></button>
     </body>
 </a>
   </html>
@@ -85,7 +85,7 @@
   <html>
 <a href="famingzhuanli.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">已取得研究基础</font></button>
+    <button><font style="font-family:宋体" font size="6">研究基础</font></button>
     </body>
 </a>
   </html>
@@ -93,7 +93,7 @@
   <html>
 <a href="famingzhuanli.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">拟研究具体科学问题</font></button>
+    <button><font style="font-family:宋体" font size="6">科学问题</font></button>
     </body>
 </a>
   </html>
