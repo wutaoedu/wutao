@@ -16,6 +16,16 @@
     </td>
   </tr>
 </table>
+
+  
+<html>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全专业副教授、硕士生导师。主要从事智能算法安全、数据隐私保护、知识计算等方向的研究工作，是重庆邮电大学网络空间安全团队科研骨干。主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />     
+    </body>
+</html>  
 <html>
 <a href="famingzhuanli.github.io">
   <body>
@@ -87,15 +97,6 @@
     </body>
 </a>
   </html>
-  
-<html>  
-    <body>  
-        <hr />  
-    </body> 
-  <body>
-  <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全专业副教授、硕士生导师。主要从事智能算法安全、数据隐私保护、知识计算等方向的研究工作，是重庆邮电大学网络空间安全团队科研骨干。主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />     
-    </body>
-</html>  
 <html>  
     <h1>主要研究领域</h1>  
     <body>  
