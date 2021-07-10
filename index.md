@@ -18,21 +18,21 @@
 </table>
 <html>
 <a href="famingzhuanli.github.io">
-    <button>个人简介</button>
+    <button><font style="font-family:宋体" font size="6">个人简介</font></button>
 </a>
   </html>
   <html>
 <a href="famingzhuanli.github.io">
-    <button>主要研究领域</button>
+    <button><font style="font-family:宋体" font size="6">主要研究领域</font></button>
 </a>
   </html>
     <html>
 <a href="famingzhuanli.github.io">
-    <button>主要研究领域</button>
+    <button><font style="font-family:宋体" font size="6">教育背景</font></button>
 </a>
   </html>
 <html>  
-    <h1>教育背景</h1>  
+    <h1>个人简介</h1>  
     <body>  
         <hr />  
     </body> 
