@@ -30,13 +30,6 @@
     </body>
 </a>
   </html>
-    <html>
-<a href="famingzhuanli.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">教育背景</font></button>
-    </body>
-</a>
-  </html>
 <html>  
     <h1>个人简介</h1>  
     <body>  
