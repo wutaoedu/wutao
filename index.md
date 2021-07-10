@@ -3,12 +3,12 @@
     <td width="75%">
       <h1>吴涛 Wu Tao</h1>
       <body>
-      <font style="font-family:宋体" font size="6">副教授、博士、硕士生导师</font><br />
-      <font style="font-family:宋体" font size="6">重庆邮电大学网络空间安全学院与信息法学院</font><br />
-      <font style="font-family:宋体" font size="6">网络空间安全专业</font><br />
-      <font style="font-family:宋体" font size="6">邮箱：wutao@cqupt.edu.cn</font><br />
-      <font style="font-family:宋体" font size="6">联系方式：+86 15884569957</font><br />
-      <font style="font-family:宋体" font size="6">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
+      <font style="font-family:宋体" font size="4">副教授、博士、硕士生导师</font><br />
+      <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
+      <font style="font-family:宋体" font size="4">网络空间安全专业</font><br />
+      <font style="font-family:宋体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
+      <font style="font-family:宋体" font size="4">联系方式：+86 15884569957</font><br />
+      <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
         </body>
     </td>
     <td width="25%">
@@ -21,23 +21,29 @@
     <body>  
         <hr />  
     </body> 
-  <p><b>重庆邮电大学网络空间安全专业副教授、硕士生导师。主要从事智能算法安全、数据隐私保护、知识计算等方向的研究工作，是重庆邮电大学网络空间安全团队科研骨干。荣获重庆邮电大学2020年优秀教师奖、2020年重庆市事业单位年度考核优秀奖。同时，从事智能算法安全、数据隐私保护等方向的科研工作，主持国家自然科学基金、国家重点研发计划子课题项目各 1 项，主持重庆市自然科学基金面上项目等省部级项目2项以及横向课题2项，参与国家社会科学基金项目1项，发表高水平学术论文30余篇，申请国家发明专利17件，软件著作权 1 项，获四川省科技进步二等奖1项。特别是结合复杂网络、图神经网络以及知识计算，提出了面向开放环境智能知识计算系统的图学习模型安全理论与方法，相关成果应用于智慧城市、智能电网、智慧文博等领域。</b></p>
+  <body>
+  <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全专业副教授、硕士生导师。主要从事智能算法安全、数据隐私保护、知识计算等方向的研究工作，是重庆邮电大学网络空间安全团队科研骨干。荣获重庆邮电大学2020年优秀教师奖、2020年重庆市事业单位年度考核优秀奖。同时，从事智能算法安全、数据隐私保护等方向的科研工作，主持国家自然科学基金、国家重点研发计划子课题项目各 1 项，主持重庆市自然科学基金面上项目等省部级项目2项以及横向课题2项，参与国家社会科学基金项目1项，发表高水平学术论文30余篇，申请国家发明专利17件，软件著作权 1 项，获四川省科技进步二等奖1项。特别是结合复杂网络、图神经网络以及知识计算，提出了面向开放环境智能知识计算系统的图学习模型安全理论与方法，相关成果应用于智慧城市、智能电网、智慧文博等领域。</font><br />     
+    </body>
 </html>  
 <html>  
     <h1>主要研究领域</h1>  
     <body>  
         <hr />  
     </body>
-  <p><b> 主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</b></p>
+  <body>
+  <font style="font-family:宋体" font size="4">主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />
+    </body>
 </html> 
 <html>  
     <h1>教育背景</h1>  
     <body>  
         <hr />  
     </body>
-  <p><b>2013.9-2017.6, 电子科技大学, 计算机应用技术, 博士, 导师: 陈雷霆</b></p>
-  <p><b>2008.9-2011.6, 重庆邮电大学, 计算机应用技术, 硕士, 导师: 刘宴兵</b></p>
-  <p><b>2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</b></p>
+  <>body>
+  <font style="font-family:宋体" font size="4">2013.9-2017.6, 电子科技大学, 计算机应用技术, 博士, 导师: 陈雷霆</font><br />
+  <font style="font-family:宋体" font size="4">2008.9-2011.6, 重庆邮电大学, 计算机应用技术, 硕士, 导师: 刘宴兵</font><br />
+  <font style="font-family:宋体" font size="4">2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</font><br />
+  </body>
 </html> 
 <html>  
     <h1>主要项目</h1>  
