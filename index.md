@@ -89,7 +89,6 @@
   </html>
   
 <html>  
-    <h1>个人简介</h1>  
     <body>  
         <hr />  
     </body> 
