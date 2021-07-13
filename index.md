@@ -48,7 +48,7 @@
   <html>
 <a href="zhuyaoxiangmu.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">主要项目</font></button>
+    <button><font style="font-family:宋体" font size="6">学术论文</font></button>
     </body>
 </a>
   </html>
@@ -56,7 +56,7 @@
   <html>
 <a href="yanjiuchengguo.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">研究成果</font></button>
+    <button><font style="font-family:宋体" font size="6">科研项目</font></button>
    </body>
 </a>
  </html>
@@ -64,7 +64,7 @@
    <html>
 <a href="chengguogaishu.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">成果概述</font></button>
+    <button><font style="font-family:宋体" font size="6">科研方向</font></button>
     </body>
 </a>
   </html>
@@ -72,23 +72,7 @@
   <html>
 <a href="xiangmugaishu.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">项目概述</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="yanjiujichu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">研究基础</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="kexuewenti.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">科学问题</font></button>
+    <button><font style="font-family:宋体" font size="6">成果应用</font></button>
     </body>
 </a>
   </html>
