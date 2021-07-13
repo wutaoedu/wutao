@@ -12,7 +12,7 @@
         </body>
     </td>
     <td width="15%">
-      <img src="/zhaopian.jpg"  width="100%">      
+      <img src="/zhaopian.jpg"  width="60%">      
     </td>
   </tr>
 </table>
