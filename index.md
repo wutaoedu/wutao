@@ -120,76 +120,8 @@
    <font style="font-family:宋体" font size="4"> [8]中国三峡博物馆项目，大规模鲁棒性三峡文化知识图谱平台，150万元，2020.07-2021.12，在研，主持</font><br />
     </body>
 </html> 
-<html>  
-    <h1>代表性研究成果</h1>  
-    <body>  
-        <hr />  
-    </body> 
-  <head><font style="font-family:宋体" font size="5">一、期刊论文</font><br /></head>
-  <body>
-  <font style="font-family:宋体" font size="4">[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</font><br />
-  <font style="font-family:宋体" font size="4">[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.</font><br />
-  <font style="font-family:宋体" font size="4">[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Chao Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Structure Prediction Models. Neurocomputing , 2021: 437,168–185. </font><br />
-  <font style="font-family:宋体" font size="4">[4]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020,218:106674.</font><br />
-  <font style="font-family:宋体" font size="4">[5]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetSRE: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020, 196: 105800.</font><br />
-  <font style="font-family:宋体" font size="4">[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).</font><br />
-  <font style="font-family:宋体" font size="4">[7]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.</font><br />
-  <font style="font-family:宋体" font size="4">[8]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</font><br />
-  <font style="font-family:宋体" font size="4">[9]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). </font><br />
-  <font style="font-family:宋体" font size="4">[10]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ). </font><br />
-  <font style="font-family:宋体" font size="4">[11]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize  network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132). </font><br />
-  <font style="font-family:宋体" font size="4">[12]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,465:662-672 (SCI, Impact Factor: 2.132). </font><br />
-  <font style="font-family:宋体" font size="4">[13]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,448:68-80 (SCI, Impact Factor: 2.132).  </font><br />
-  <font style="font-family:宋体" font size="4">[14]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 44(12) :2290-2299. </font><br />
-  <font style="font-family:宋体" font size="4">[15]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. (SCI, Impact Factor: 2.643). </font><br />
-   <font style="font-family:宋体" font size="4">[16]Yanbing Liu, Tao Wu, Jun Huang, Shousheng Jia, A Stackelberg-Game Based Power Control Algorithm for Wireless Mesh Networks. Abstract and Applied Analysis, 2013, 4:1285-300（中科院SCI二区）</font><br />
-  <font style="font-family:宋体" font size="4">[17]Yanbing Liu, Tao Wu, Xingping Xian, A Game-Theoretic Approach for Distributed Power Control in Wireless Mesh Networks. IEICE Transactions on Communications, 2011,94 (3) :818-822</font><br />
-    </body>
-  <head><font style="font-family:宋体" font size="5">二、会议论文</font><br /></head>
-  <body>
-   <font style="font-family:宋体" font size="4">[1]Qun Liu, Xingping Xian, Songtao Guo, Tao Wu. Research on Cooperative Packet Forwarding and Punishment Mechanism in Wireless Sensor Networks [C]. IEEE International Conference on Granular Computing, 2010. (EI)</font><br />
-<font style="font-family:宋体" font size="4">[2]Qun Liu, Xingping Xian, Tao Wu, Game theoretic approach in routing protocol for cooperative wireless sensor networks [C], International Conference in Swarm Intelligence 2011: Advances in Swarm Intelligence, Berlin, Heidelberg, 2011. (EI 000309148700025)</font><br />
-<font style="font-family:宋体" font size="4">[3]Tao Wu, Leiting Chen, Yayong Guan, Xin Li, Yuxiao Guo. LPA based Hierarchical Community Detection [C], IEEE 17th International Conference on Computational Science and Engineering (CSE), Chengdu, 19-21 Dec. 2015 (EI 000380512100031).</font><br />
-<font style="font-family:宋体" font size="4">[4]Yayong Guan, Tao Wu, Jin Ning, Hong-Bin Cai. Hybrid attributes similarity measurement for spectral clustering [C], 11th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), Chengdu, 19-21 Dec. 2014 (EI, 20151700788342).</font><br />
-<font style="font-family:宋体" font size="4">[5]Guannan Ming, Tao Wu, Xiaofeng  Liao, Xingping Xian. Structural Predictability Regulation for Graph data[C], IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering. IEEE, 2019.</font><br />
-<font style="font-family:宋体" font size="4">[6]Jing Zhu, Tao Wu, Jintao Li, Yanbin Liu, Qixin Jiang. Multi-keyword Cipher-text Retrieval Method for Smart Grid Edge Computing, 会议，2020</font><br />
-<font style="font-family:宋体" font size="4">[7]Yanwen Guo, Tao Wu, Yanbin Liu, Yixin Jiang. Univariate Forecasting Based on Improved Seq2Seq at the Edge of Power Grid, 会议，2020</font><br />
-<font style="font-family:宋体" font size="4">[8]王雪纯, 黄少平, 许爱东, 吴涛, 郭延文, 蒋屹新, 张宇男. 智能电网中边缘终端数据隐私保护方法【J】,南方电网技术, 2020, 14 (3) :74-79.</font><br />
-<font style="font-family:宋体" font size="4">[9]Aidong Xu, Xuechun Wang, Yunan Zhang, Tao Wu, Xingping Xian. Adversarial Attacks on Deep Neural Networks for Time Series Prediction, ICICSE, 2021.</font><br />
-<font style="font-family:宋体" font size="4">[10]Aidong Xu, Tao Wu, Yunan Zhang, Zhiwei Hu, Yixin Jiang. Graph-Based Time Series Edge Anomaly Detection in Smart Grid，BigDataSecurity, 2021.</font><br />
-    </body>
-  <head><font style="font-family:宋体" font size="5">三、发明专利</font><br /></head>
-  <body>
-   <font style="font-family:宋体" font size="4">[1]吴涛，先兴平，徐光侠，明冠男，朱静，王雪纯，蒋龙生. 一种社交网络的异常检测与优化方法、系统及计算机设备. 受理号: 201910549606.3.</font><br />
-<font style="font-family:宋体" font size="4">[2]吴涛，李锦涛，朱静，刘勇，王雪纯，马创.一种基于电力系统的时序数据压缩与恢复方法.受理实审, 202011204819.1，2021.02.05.</font><br />
-<font style="font-family:宋体" font size="4">[3]吴涛，朱静，先兴平，许爱东，刘宴兵，宋秀丽，张宇南. 一种基于边缘协同分类的时序数据检索方法. 受理号:202110279477.8</font><br />
-<font style="font-family:宋体" font size="4">[4]吴涛、朱静、先兴平、许爱东、马红玉、冯柏林、王宇轩. 一种基于卷积神经网络的改进元学习的关系预测方法.受理号:202110357268.0</font><br />
-<font style="font-family:宋体" font size="4">[5]吴涛、先兴平、许爱东、骆俊辉、杨楠、马红玉、姜丰. 一种图网络分类模型的训练方法、装置、系统及电子设备. 受理号:专利申请号或专利号：202110421442.3</font><br />
-<font style="font-family:宋体" font size="4">[6]先兴平，明冠男，吴涛，徐光侠，朱静，王雪纯，邓伟韬. 一种面向隐私保护的网络结构去匿名化系统及方法. 受理号: 201910509388.0. 授权</font><br />
-<font style="font-family:宋体" font size="4">[7]先兴平、吴涛、许爱东、刘宴兵、吴渝、张宇南、王雪纯，时序数据对抗样本生成方法、系统、电子设备及存储介质. 受理号:202110354068.</font><br />
-<font style="font-family:宋体" font size="4">[8]明冠男，吴涛，董倩，朱静，王雪纯，陈幸. 基于电力信息系统网络调控机制的隐私保护方法. 受理号: 201910509401.2.</font><br />
-<font style="font-family:宋体" font size="4">[9]陈幸，吴涛，先兴平，明冠男. 一种基于矩阵分解的网络结构去匿名化系统及方法. 受理号:201911141539.8</font><br />
-<font style="font-family:宋体" font size="4">[10]许爱东，吴涛，蒋屹新，朱静，曹扬. 一种可搜索加密的数据检索方法及系统. 受理号: 201910264985.1.</font><br />
-<font style="font-family:宋体" font size="4">[11]李鹏，吴涛，许爱东，郭延文，明哲，徐光侠，先兴平. 面向电力系统中边缘节点的轻量级数据管理系统及方法. 受理号: 201811636585.0.</font><br />
-<font style="font-family:宋体" font size="4">[12]许爱东，吴涛，张宇南，胡志伟，曹扬，先兴平. 基于边缘终端的角色访问控制系统. 受理号:201811636506.6.</font><br />
-<font style="font-family:宋体" font size="4">[13]明哲，吴涛，许爱东，李锦涛，蒋屹新，先兴平. 基于边缘计算的滑动块重复数据删除方法. 受理号:201811640914.9.</font><br />
-<font style="font-family:宋体" font size="4">[14]许爱东，吴涛，李鹏，王雪纯，张宇南，先兴平. 基于电力系统边缘计算的隐私保护方法及系统与流程. 授权号: ZL201811636542.2.</font><br />
-<font style="font-family:宋体" font size="4">[15]陈幸、吴涛、先兴平、明冠男、许爱东. 一种电力信息网络关键信息传输链路识别方法及其系统. 受理号:201910990836.3</font><br />
-    </body>
-  <head><font style="font-family:宋体" font size="5">四、学术奖励</font><br /></head>
-  <body>
-   <font style="font-family:宋体" font size="4">基于物理特性的移动网络安全与可靠技术及应用（9512018Y1411），电子科技大学、南方电网科学研究院有限责任公司、重庆邮电大学，文红、蒋屹新、朱西平、刘宴兵、许爱东、李鹏、唐杰、吴涛，2018年度四川省科学技术进步奖科技进步类二等奖。</font><br />
-    </body>
-  <head><font style="font-family:宋体" font size="5">四、博物馆专利</font><br /></head>
-  <body>
-   <font style="font-family:宋体" font size="4"> [1] 唐昌伦、赵卓、田侃、张殊、张晨、吴涛、张浩然、王宇轩.一种基于分阶段查询的知识图谱常识问答方法及系统. 受理号：202110372845.3</font><br />
-  <font style="font-family:宋体" font size="4">[2] 田侃、唐昌伦、赵卓、张殊、张晨、先兴平、游小琳、廖嘉欣.一种基于卷积神经网络的文物知识关系抽取方法. 受理号：202110355378.3
-</font><br />
-   <font style="font-family:宋体" font size="4">[3] 赵卓、田侃、张殊、张晨、吴涛、姜丰、游小琳. 基于预训练模型的的文博知识命名实体标注，计算机应用,2021.</font><br />
-  <font style="font-family:宋体" font size="4">[4] 田侃. 基于文化数据的知识图谱构建关键技术研究,数码世界,2021年03期.</font><br />
-  <font style="font-family:宋体" font size="4">[5] 赵卓, 田凯，吴涛. 面向智慧文博的知识图谱构建概述, 软件导刊，2021.</font><br />
-    </body>
-</html> 
+
+
 <html>  
     <h1>现有成果概述</h1>  
     <body>  
