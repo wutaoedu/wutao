@@ -1,17 +1,17 @@
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="20%">
       <h1>吴涛 Wu Tao</h1>
       <body>
-      <font style="font-family:宋体" font size="5">副教授、博士、硕士生导师</font><br />
-      <font style="font-family:宋体" font size="5">重庆邮电大学网络空间安全学院与信息法学院</font><br />
-      <font style="font-family:宋体" font size="5">网络空间安全专业</font><br />
-      <font style="font-family:宋体" font size="5">邮箱：wutao@cqupt.edu.cn</font><br />
-      <font style="font-family:宋体" font size="5">联系方式：+86 15884569957</font><br />
-      <font style="font-family:宋体" font size="5">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
+      <font style="font-family:宋体" font size="4">副教授、博士、硕士生导师</font><br />
+      <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
+      <font style="font-family:宋体" font size="4">网络空间安全专业</font><br />
+      <font style="font-family:宋体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
+      <font style="font-family:宋体" font size="4">联系方式：+86 15884569957</font><br />
+      <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
         </body>
     </td>
-    <td width="50%">
+    <td width="80%">
       <img src="/zhaopian.jpg"  width="100%">      
     </td>
   </tr>
