@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>吴涛 Wu Tao</h1>
       <body>
       <font style="font-family:宋体" font size="5">副教授、博士、硕士生导师</font><br />
@@ -11,7 +11,7 @@
       <font style="font-family:宋体" font size="5">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
         </body>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/zhaopian.jpg"  width="100%">      
     </td>
   </tr>
