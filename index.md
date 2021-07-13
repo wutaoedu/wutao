@@ -16,38 +16,6 @@
     </td>
   </tr>
 </table>
-
-   <html>
-<a href="zhuyaoxiangmu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">学术论文</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="yanjiuchengguo.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">科研项目</font></button>
-   </body>
-</a>
- </html>
- 
-   <html>
-<a href="chengguogaishu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">科研方向</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="xiangmugaishu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">成果应用</font></button>
-    </body>
-</a>
-  </html>
   
 <html>  
       <h1>个人简介</h1>  
