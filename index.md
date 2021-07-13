@@ -38,17 +38,6 @@
     </body>
 </html> 
 
-<html>  
-    <h1>教育背景</h1>  
-    <body>  
-        <hr />  
-    </body>
-  <body>
-  <font style="font-family:宋体" font size="4">2013.9-2017.6, 电子科技大学, 计算机应用技术, 博士, 导师: 陈雷霆</font><br />
-  <font style="font-family:宋体" font size="4">2008.9-2011.6, 重庆邮电大学, 计算机应用技术, 硕士, 导师: 刘宴兵</font><br />
-  <font style="font-family:宋体" font size="4">2004.9-2008.6, 兰州理工大学, 计算机应用技术, 学士, 导师: 张远平</font><br />
-  </body>
-</html> 
 <html>   
     <body>  
         <hr />  
