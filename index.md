@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="25%">
       <body>
       <font style="font-family:宋体" font size="6">吴涛 Wu Tao</font><br />
       <font style="font-family:宋体" font size="4">副教授、博士、硕士生导师</font><br />
