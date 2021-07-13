@@ -136,6 +136,14 @@
   <font style="font-family:宋体" font size="4">[7]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.</font><br />
   <font style="font-family:宋体" font size="4">[8]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</font><br />
   <font style="font-family:宋体" font size="4">[9]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). </font><br />
+  <font style="font-family:宋体" font size="4">[10]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ). </font><br />
+  <font style="font-family:宋体" font size="4">[11]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize  network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132). </font><br />
+  <font style="font-family:宋体" font size="4">[12]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,465:662-672 (SCI, Impact Factor: 2.132). </font><br />
+  <font style="font-family:宋体" font size="4">[13]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,448:68-80 (SCI, Impact Factor: 2.132).  </font><br />
+  <font style="font-family:宋体" font size="4">[14]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 44(12) :2290-2299. </font><br />
+  <font style="font-family:宋体" font size="4">[15]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. (SCI, Impact Factor: 2.643). </font><br />
+   <font style="font-family:宋体" font size="4">[16]Yanbing Liu, Tao Wu, Jun Huang, Shousheng Jia, A Stackelberg-Game Based Power Control Algorithm for Wireless Mesh Networks. Abstract and Applied Analysis, 2013, 4:1285-300（中科院SCI二区）</font><br />
+  <font style="font-family:宋体" font size="4">[17]Yanbing Liu, Tao Wu, Xingping Xian, A Game-Theoretic Approach for Distributed Power Control in Wireless Mesh Networks. IEICE Transactions on Communications, 2011,94 (3) :818-822</font><br />
     </body>
   <head><font style="font-family:宋体" font size="5">二、会议论文</font><br /></head>
   <body>
@@ -151,6 +159,7 @@
 <font style="font-family:宋体" font size="4">[10]Aidong Xu, Tao Wu, Yunan Zhang, Zhiwei Hu, Yixin Jiang. Graph-Based Time Series Edge Anomaly Detection in Smart Grid，BigDataSecurity, 2021.</font><br />
     </body>
   <head><font style="font-family:宋体" font size="5">三、发明专利</font><br /></head>
+  <body>
    <font style="font-family:宋体" font size="4">[1]吴涛，先兴平，徐光侠，明冠男，朱静，王雪纯，蒋龙生. 一种社交网络的异常检测与优化方法、系统及计算机设备. 受理号: 201910549606.3.</font><br />
 <font style="font-family:宋体" font size="4">[2]吴涛，李锦涛，朱静，刘勇，王雪纯，马创.一种基于电力系统的时序数据压缩与恢复方法.受理实审, 202011204819.1，2021.02.05.</font><br />
 <font style="font-family:宋体" font size="4">[3]吴涛，朱静，先兴平，许爱东，刘宴兵，宋秀丽，张宇南. 一种基于边缘协同分类的时序数据检索方法. 受理号:202110279477.8</font><br />
@@ -163,8 +172,23 @@
 <font style="font-family:宋体" font size="4">[10]许爱东，吴涛，蒋屹新，朱静，曹扬. 一种可搜索加密的数据检索方法及系统. 受理号: 201910264985.1.</font><br />
 <font style="font-family:宋体" font size="4">[11]李鹏，吴涛，许爱东，郭延文，明哲，徐光侠，先兴平. 面向电力系统中边缘节点的轻量级数据管理系统及方法. 受理号: 201811636585.0.</font><br />
 <font style="font-family:宋体" font size="4">[12]许爱东，吴涛，张宇南，胡志伟，曹扬，先兴平. 基于边缘终端的角色访问控制系统. 受理号:201811636506.6.</font><br />
+<font style="font-family:宋体" font size="4">[13]明哲，吴涛，许爱东，李锦涛，蒋屹新，先兴平. 基于边缘计算的滑动块重复数据删除方法. 受理号:201811640914.9.</font><br />
+<font style="font-family:宋体" font size="4">[14]许爱东，吴涛，李鹏，王雪纯，张宇南，先兴平. 基于电力系统边缘计算的隐私保护方法及系统与流程. 授权号: ZL201811636542.2.</font><br />
+<font style="font-family:宋体" font size="4">[15]陈幸、吴涛、先兴平、明冠男、许爱东. 一种电力信息网络关键信息传输链路识别方法及其系统. 受理号:201910990836.3</font><br />
+    </body>
   <head><font style="font-family:宋体" font size="5">四、学术奖励</font><br /></head>
+  <body>
    <font style="font-family:宋体" font size="4">基于物理特性的移动网络安全与可靠技术及应用（9512018Y1411），电子科技大学、南方电网科学研究院有限责任公司、重庆邮电大学，文红、蒋屹新、朱西平、刘宴兵、许爱东、李鹏、唐杰、吴涛，2018年度四川省科学技术进步奖科技进步类二等奖。</font><br />
+    </body>
+  <head><font style="font-family:宋体" font size="5">四、博物馆专利</font><br /></head>
+  <body>
+   <font style="font-family:宋体" font size="4"> [1] 唐昌伦、赵卓、田侃、张殊、张晨、吴涛、张浩然、王宇轩.一种基于分阶段查询的知识图谱常识问答方法及系统. 受理号：202110372845.3</font><br />
+  <font style="font-family:宋体" font size="4">[2] 田侃、唐昌伦、赵卓、张殊、张晨、先兴平、游小琳、廖嘉欣.一种基于卷积神经网络的文物知识关系抽取方法. 受理号：202110355378.3
+</font><br />
+   <font style="font-family:宋体" font size="4">[3] 赵卓、田侃、张殊、张晨、吴涛、姜丰、游小琳. 基于预训练模型的的文博知识命名实体标注，计算机应用,2021.</font><br />
+  <font style="font-family:宋体" font size="4">[4] 田侃. 基于文化数据的知识图谱构建关键技术研究,数码世界,2021年03期.</font><br />
+  <font style="font-family:宋体" font size="4">[5] 赵卓, 田凯，吴涛. 面向智慧文博的知识图谱构建概述, 软件导刊，2021.</font><br />
+    </body>
 </html> 
 <html>  
     <h1>现有成果概述</h1>  
