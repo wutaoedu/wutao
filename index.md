@@ -1,8 +1,8 @@
 <table border="0">
   <tr>
-    <td width="65%">
-      <h1>吴涛 Wu Tao</h1>
+    <td width="60%">
       <body>
+      <font style="font-family:宋体" font size="6">吴涛 Wu Tao</font><br />
       <font style="font-family:宋体" font size="4">副教授、博士、硕士生导师</font><br />
       <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
       <font style="font-family:宋体" font size="4">网络空间安全专业</font><br />
@@ -11,7 +11,7 @@
       <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
         </body>
     </td>
-    <td width="10%">
+    <td width="20%">
       <img src="/zhaopian.jpg"  width="100%">      
     </td>
   </tr>
