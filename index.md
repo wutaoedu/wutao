@@ -69,6 +69,12 @@
     </body>
 </html> 
 
+<html>   
+    <body>  
+        <hr />  
+    </body> 
+  </html>
+  
 <html>  
       <h1>课题研究</h1>  
     <body>  
@@ -81,6 +87,12 @@
     </body>
 </html> 
 
+<html>   
+    <body>  
+        <hr />  
+    </body> 
+  </html>
+  
 <html>  
     <h1>发明专利</h1>  
     <body>  
