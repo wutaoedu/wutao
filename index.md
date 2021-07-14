@@ -22,7 +22,7 @@
   </html>
   
   <html>
-<a href="zhuyaoxiangmu.github.io">
+<a href="academic.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">学术论文</font></button>
     </body>
@@ -30,7 +30,7 @@
   </html>
   
   <html>
-<a href="yanjiuchengguo.github.io">
+<a href="scientific.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">科研项目</font></button>
    </body>
@@ -38,7 +38,7 @@
  </html>
  
    <html>
-<a href="chengguogaishu.github.io">
+<a href="direction.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">科研方向</font></button>
     </body>
@@ -46,7 +46,7 @@
   </html>
   
   <html>
-<a href="xiangmugaishu.github.io">
+<a href="application.github.io">
   <body>
     <button><font style="font-family:宋体" font size="6">成果应用</font></button>
     </body>
