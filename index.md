@@ -11,8 +11,8 @@
       <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
         </body>
     </td>
-    <td width="35%">
-      <img src="/zhaopian.jpg"  width="50%" style="float:left;" />      
+    <td width="20%">
+      <img src="/zhaopian.jpg"  width="50%" style="float:right;" />      
     </td>
   </tr>
   </html>
