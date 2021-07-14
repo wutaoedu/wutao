@@ -9,10 +9,8 @@
       <font style="font-family:宋体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
       <font style="font-family:宋体" font size="4">联系方式：+86 15884569957</font><br />
       <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br />
+        <img src="/zhaopian.jpg"  width="30%" style="float:right;" />   
         </body>
-    </td>
-    <td width="20%">
-      <img src="/zhaopian.jpg"  width="30%" style="float:right;" />      
     </td>
   </tr>
   </html>
