@@ -15,6 +15,43 @@
   </tr>
   </html>
 
+<html>   
+    <body>  
+        <hr />  
+    </body> 
+  </html>
+  
+  <html>
+<a href="zhuyaoxiangmu.github.io">
+  <body>
+    <button><font style="font-family:宋体" font size="6">学术论文</font></button>
+    </body>
+</a>
+  </html>
+  
+  <html>
+<a href="yanjiuchengguo.github.io">
+  <body>
+    <button><font style="font-family:宋体" font size="6">科研项目</font></button>
+   </body>
+</a>
+ </html>
+ 
+   <html>
+<a href="chengguogaishu.github.io">
+  <body>
+    <button><font style="font-family:宋体" font size="6">科研方向</font></button>
+    </body>
+</a>
+  </html>
+  
+  <html>
+<a href="xiangmugaishu.github.io">
+  <body>
+    <button><font style="font-family:宋体" font size="6">成果应用</font></button>
+    </body>
+</a>
+  </html>
   
 <html>  
       <h1>个人简介</h1>  
@@ -63,42 +100,3 @@
   <font style="font-family:宋体" font size="4">[17]田侃、唐昌伦、赵卓、张殊、张晨、先兴平、游小琳、廖嘉欣.一种基于卷积神经网络的文物知识关系抽取方法. 受理号：202110355378.3</font><br />
     </body>
 </html> 
-
-<html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
-  
-  
-  <html>
-<a href="zhuyaoxiangmu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">学术论文</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="yanjiuchengguo.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">科研项目</font></button>
-   </body>
-</a>
- </html>
- 
-   <html>
-<a href="chengguogaishu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">科研方向</font></button>
-    </body>
-</a>
-  </html>
-  
-  <html>
-<a href="xiangmugaishu.github.io">
-  <body>
-    <button><font style="font-family:宋体" font size="6">成果应用</font></button>
-    </body>
-</a>
-  </html>
