@@ -1,4 +1,4 @@
-<table>
+<html>
   <tr>
     <td width="60%">
       <body>
@@ -15,7 +15,7 @@
       <img src="/zhaopian.jpg"  width="50%">      
     </td>
   </tr>
-</table>
+  <html>
   
 <html>  
       <h1>个人简介</h1>  
