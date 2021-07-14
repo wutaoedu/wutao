@@ -6,7 +6,6 @@
     display:block;
     width:100%;}
     </style>
-  </head>
 <body>
   <div class="w">
     <div class="t">
