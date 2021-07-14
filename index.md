@@ -38,16 +38,6 @@
 </html> 
 
 <html>  
-    <h1>主要项目</h1>  
-    <body>  
-        <hr />  
-    </body>
-  <body>
-  <font style="font-family:宋体" font size="4">主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。</font><br />
-    </body>
-</html> 
-
-<html>  
     <h1>发明专利</h1>  
     <body>  
         <hr />  
