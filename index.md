@@ -1,4 +1,6 @@
 <html>
+  <head>
+  <title>HTML</title>
   <style>
     .wutao{width:800px;margin:50px auto;border:solid 1px gray;}
     .wutaoedu{width:300px;}
@@ -6,6 +8,7 @@
     display:block;
     width:100%;}
     </style>
+    </head>
 <body>
   <div class="w">
     <div class="t">
