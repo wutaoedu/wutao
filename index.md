@@ -4,12 +4,12 @@
       <body>
         <img src="/zhaopian.jpg" width="23%" style="float:right;" />  
       <font style="font-family:宋体" font size="6">吴涛 Wu Tao</font><br />
-      <font style="font-family:宋体" font size="5">副教授、博士、硕士生导师</font><br />
-      <font style="font-family:宋体" font size="5">重庆邮电大学网络空间安全学院与信息法学院</font><br />
-      <font style="font-family:宋体" font size="5">网络空间安全专业</font><br />
-      <font style="font-family:宋体" font size="5">邮箱：wutao@cqupt.edu.cn</font><br />
-      <font style="font-family:宋体" font size="5">联系方式：+86 15884569957</font><br />
-      <font style="font-family:宋体" font size="5">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br /> 
+      <font style="font-family:宋体" font size="4">副教授、博士、硕士生导师</font><br />
+      <font style="font-family:宋体" font size="4">重庆邮电大学网络空间安全学院与信息法学院</font><br />
+      <font style="font-family:宋体" font size="4">网络空间安全专业</font><br />
+      <font style="font-family:宋体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
+      <font style="font-family:宋体" font size="4">联系方式：+86 15884569957</font><br />
+      <font style="font-family:宋体" font size="4">地址：重庆市南岸区崇文路2号 重庆邮电大学</font><br /> 
         </body>
     </td>
   </tr>
@@ -34,7 +34,7 @@
   <body>
   <font style="font-family:宋体" font size="4">1）研究智能算法的对抗攻击问题，探索当前智能算法的安全弱点与不足，开发面向边缘计算的鲁棒性机器学习算法。具体的，关注图挖掘与时序数据分析相关的机器学习算法，设计有效的对抗攻击方法。在此基础上，设计轻量级的、鲁棒性机器学习算法；</font><br />
   <font style="font-family:宋体" font size="4">2）研究数据中毒攻击、对抗样本逃逸攻击的安全检测问题，实时准确的发现攻击行为，进行有效防御。边缘计算环境下机器学习算法面临独有的安全挑战。特别的，在边缘终端，恶意攻击者能够通过干扰传感器操纵训练数据。因此，其面临严重的“数据中毒攻击”风险。同时，由于边缘终端的功能特性，结合边缘环境的开放性，“对抗逃逸攻击”是边缘智能应用面临的突出安全挑战。因此，研究边缘智能的“中毒攻击”及“逃逸攻击”的检测与防御方法具有重要意义。</font><br />
-  <font style="font-family:宋体" font size="4">3）研究边缘终端分布式协同智能计算的安全问题。由于边缘终端计算能力的局限性，往往需要多个终端之间协同才能有效完成计算任务。本课题关注典型的分布式协同学习机制，研究联邦学习过程，强化协同交互过程中的数据隐私保护与安全防护，设计分布式协同学习的攻击防御方法。</font><br />     </font><br />
+  <font style="font-family:宋体" font size="4">3）研究边缘终端分布式协同智能计算的安全问题。由于边缘终端计算能力的局限性，往往需要多个终端之间协同才能有效完成计算任务。本课题关注典型的分布式协同学习机制，研究联邦学习过程，强化协同交互过程中的数据隐私保护与安全防护，设计分布式协同学习的攻击防御方法。</font><br />
     </body>
 </html> 
 
