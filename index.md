@@ -25,7 +25,7 @@
   <html>
 <a href="academic.github.io">
   <body>
-    <button><font style="font-family:黑体" font size="7">学术论文</font></button>
+    <button><font style="font-family:黑体" font size="6.5">学术论文</font></button>
     </body>
 </a>
   </html>
@@ -33,7 +33,7 @@
   <html>
 <a href="scientific.github.io">
   <body>
-    <button><font style="font-family:黑体" font size="7">科研项目</font></button>
+    <button><font style="font-family:黑体" font size="6.5">科研项目</font></button>
    </body>
 </a>
  </html>
@@ -41,7 +41,7 @@
    <html>
 <a href="direction.github.io">
   <body>
-    <button><font style="font-family:黑体" font size="7">科研方向</font></button>
+    <button><font style="font-family:黑体" font size="6.5">科研方向</font></button>
     </body>
 </a>
   </html>
@@ -49,7 +49,7 @@
   <html>
 <a href="application.github.io">
   <body>
-    <button><font style="font-family:黑体" font size="7">成果应用</font></button>
+    <button><font style="font-family:黑体" font size="6.5">成果应用</font></button>
     </body>
 </a>
   </html>
