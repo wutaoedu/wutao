@@ -16,8 +16,7 @@
           </table>
         </body>
     </td>
-    </tr>
-  </html>
+    </tr> </html>
 
 <html>   
     <body>  
