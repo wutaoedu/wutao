@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <body>
-        <img src="/zhaopian.jpg" width="16%" style="float:left;" /> 
+        <img src="/zhaopian.jpg" width="18%" style="float:left;" /> 
 	 <div style="text-align:center;width:600px;">
       <font style="font-family:黑体" font size="8">吴涛 Wu Tao</font><br />
       <font style="font-family:黑体" font size="4">博士、副教授、硕士生导师</font><br />
@@ -25,7 +25,7 @@
   <html>
 <a href="academic.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">学术论文</font></button>
+    <button><font style="font-family:黑体" font size="7">学术论文</font></button>
     </body>
 </a>
   </html>
@@ -33,7 +33,7 @@
   <html>
 <a href="scientific.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">科研项目</font></button>
+    <button><font style="font-family:黑体" font size="7">科研项目</font></button>
    </body>
 </a>
  </html>
@@ -41,7 +41,7 @@
    <html>
 <a href="direction.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">科研方向</font></button>
+    <button><font style="font-family:黑体" font size="7">科研方向</font></button>
     </body>
 </a>
   </html>
@@ -49,7 +49,7 @@
   <html>
 <a href="application.github.io">
   <body>
-    <button><font style="font-family:宋体" font size="6">成果应用</font></button>
+    <button><font style="font-family:黑体" font size="7">成果应用</font></button>
     </body>
 </a>
   </html>
