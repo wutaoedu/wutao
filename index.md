@@ -119,3 +119,37 @@
   <font style="font-family:黑体" font size="4">[17]田侃、唐昌伦、赵卓、张殊、张晨、先兴平、游小琳、廖嘉欣.一种基于卷积神经网络的文物知识关系抽取方法. 受理号：202110355378.3</font><br />
     </body>
 </html> 
+
+<html>   
+    <body>  
+        <hr />  
+    </body> 
+  </html>
+  
+  <html>  
+      <h1>软件著作权</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:黑体" font size="4">[1] 电力边缘计算安全防护平台，登记号2020SR0987753, 开发人员列表：吴涛、杨楠、刘宴兵、周由胜、 陈龙、祝清意、朱静
+</font><br />     
+    </body>
+</html> 
+
+<html>   
+    <body>  
+        <hr />  
+    </body> 
+  </html>
+  
+  <html>  
+      <h1>科研成果获奖</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:黑体" font size="4">[1] 基于物理特性的移动网络安全与可靠技术及应用（9512018Y1411），电子科技大学、南方电网科学研究院有限责任公司、重庆邮电大学，文红、蒋屹新、朱西平、刘宴兵、许爱东、李鹏、唐杰、吴涛，四川省科学技术进步奖科技进步类二等奖。
+</font><br />     
+    </body>
+</html> 
