@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <body>
-        <img src="/zhaopian.jpg" width="30%" style="float:left;" /> 
+        <img src="/zhaopian.jpg" width="23%" style="float:left;" /> 
 	 <div style="text-align:center;width:600px;">
        <font style="font-family:宋体" font size="8">吴涛 Wu Tao</font><br />
       <font style="font-family:宋体" font size="4">博士、副教授、硕士生导师</font><br />
