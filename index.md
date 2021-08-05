@@ -12,6 +12,7 @@
       <font style="font-family:宋体" font size="3">重庆市南岸区崇文路2号 重庆邮电大学</font><br /> 
       <font style="font-family:宋体" font size="3">邮箱：wutao@cqupt.edu.cn</font><br />
       <font style="font-family:宋体" font size="3">电话：+86 15884569957</font><br />
+              </td>
               </tr>
           </table>
         </body>
