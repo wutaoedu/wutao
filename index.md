@@ -1,6 +1,6 @@
 <html>
   <tr>
-    <td width="50%">
+    <td width="80%">
       <body>
         <img src="/zhaopian.jpg" width="23%" style="float:left;" /> 
       <font style="font-family:微软雅黑" font size="9">吴涛 Wu Tao</font><br />
