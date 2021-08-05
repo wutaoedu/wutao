@@ -70,12 +70,6 @@
     </body>
 </html> 
 
-<html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
-  
 <html>  
       <h1>课题研究</h1>  
     <body>  
@@ -88,12 +82,7 @@
     </body>
 </html> 
 
-<html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
-  
+
 <html>  
     <h1>发明专利</h1>  
     <body>  
@@ -120,11 +109,6 @@
     </body>
 </html> 
 
-<html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
   
   <html>  
       <h1>软件著作权</h1>  
@@ -137,11 +121,7 @@
     </body>
 </html> 
 
-<html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
+
   
   <html>  
       <h1>科研成果获奖</h1>  
