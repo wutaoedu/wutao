@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <body>
-        <img src="/zhaopian.jpg" width="23%" style="float:right;" /> 
+        <img src="/zhaopian.jpg" width="23%" style="float:left;" /> 
         <table width="300" height="400" border="10" cellspacing="15" bordercolor="#FF6699">
           <tr>
             <td align="center" valign="top"> <p class="style1"> </p>
@@ -17,7 +17,7 @@
         </body>
     </td>
   </tr>
-  </html>
+</html>
 
 <html>   
     <body>  
