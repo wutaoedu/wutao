@@ -1,5 +1,5 @@
 <div class="golf">
-	<div class="photo"><img src="/zhaopian.jpg"></div>
+	<div class="photo"><img src="/zhaopian.jpg"  width="23%"></div>
 	<div class="intro">
 	    <h3>吴涛 Wu Tao</h3>
 	    <p>
