@@ -3,14 +3,18 @@
     <td width="50%">
       <body>
         <img src="/zhaopian.jpg" width="23%" style="float:left;" /> 
-       <td style="text-align:right;">
+        <div style="width:1000px;margin:0;padding:0">
+    <div style="float:left;width:200px;"><img /></div>
+    <div style="float:left;width:800px;">      
       <font style="font-family:微软雅黑" font size="8">吴涛 Wu Tao</font><br />
       <font style="font-family:宋体" font size="4">博士、副教授、硕士生导师</font><br />
       <font style="font-family:宋体" font size="4">重庆邮电大学 网络空间安全与信息法学院</font><br />
       <font style="font-family:宋体" font size="4">重庆市南岸区崇文路2号 重庆邮电大学</font><br /> 
       <font style="font-family:宋体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
-      <font style="font-family:宋体" font size="4">电话：+86 15884569957</font><br />
-        </td>
+      <font style="font-family:宋体" font size="4">电话：+86 15884569957</font><br /></div>
+    <div style="clear:both">
+          </div>
+          </div>
         </body>
     </td>
     </tr>
