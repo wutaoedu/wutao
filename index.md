@@ -16,19 +16,7 @@
     </tr>
 </html>
 
-<html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
- 
 
-  
-  <html>   
-    <body>  
-        <hr />  
-    </body> 
-  </html>
   
 <html>  
       <h1>个人简介</h1>  
