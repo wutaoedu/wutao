@@ -198,8 +198,9 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 国际期刊Knowledge-Based Systems最佳审稿人奖（中科院SCI一区）</font><br /> 
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 基于物理特性的移动网络安全与可靠技术及应用（9512018Y1411），电子科技大学、南方电网科学研究院有限责任公司、重庆邮电大学，文红、蒋屹新、朱西平、刘宴兵、许爱东、李鹏、唐杰、吴涛，四川省科学技术进步奖科技进步类二等奖。</font><br />     
+  <font style="font-family:Lucida Sans Unicode" font size="4">● 重庆邮电大学2019-2020学年“优秀教师”奖</font><br /> 	  
+  <font style="font-family:Lucida Sans Unicode" font size="4">● 四川省科学技术进步奖“科技进步类二等奖”</font><br /> 	  
+  <font style="font-family:Lucida Sans Unicode" font size="4">● 国际期刊Knowledge-Based Systems最佳审稿人奖（中科院SCI一区）</font><br />   
     </body>
 </html> 
   
