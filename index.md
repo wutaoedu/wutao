@@ -168,13 +168,13 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 4.07). 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 4.07). <br />  
 摘要：基于图结构预测可以推理个体之间的潜在关系。为了保护敏感关系、防止推理攻击，在数据发布过程中有必要调控图数据的可预测性。本文基于主动学习思想和随机游走过程，选择、扰动具有代表性的网络链路，从而调控图的可预测性。另外，本文还基于低秩稀疏理论提出图结构可预测性度量方法，以指导图结构的扰动调控。实验证明本文提出的方法可以有效降低图数据中敏感关系被推理攻击的风险。</font><br />  
-<font style="font-family:Lucida Sans Unicode" font size="4">[2]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ).
+<font style="font-family:Lucida Sans Unicode" font size="4">[2]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ).<br />  
 摘要：中心性度量旨在量化节点在复杂系统中对于系统组织结构和功能的重要性。本文将两个具有互补特性的物理过程与经典特征向量中心性相结合，从而提出PIRank算法。在真实网络上的实验结果表明，PIRank比其他方法性能更好。与特征向量中心性相比，PIRank算法可以在保持相似运行时间的同时，将性能提高约30％，同时可以避免特征向量中心性的局部性问题。</font><br />  
-<font style="font-family:Lucida Sans Unicode" font size="4">[3]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132).
+<font style="font-family:Lucida Sans Unicode" font size="4">[3]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132).<br />  
 摘要：复杂网络的功能通常取决于底层结构的完整性。为了有效破坏网络结构、影响网络功能，Morone和Makse（Nature Communications，2015）提出了一种称为CI的中心性度量方法。通过实验分析，我们发现CI中心性忽略了本地网络拓扑的结构特征。通过考虑环路密度和度多样性，本文提出了ECI中心性方法。实验结果表明ECI具有良好性能。同时发现，ECI的性能与网络异质系数和社团模块度正相关，与网络节点度异构性负相关。</font><br />  
-<font style="font-family:Lucida Sans Unicode" font size="4">[4]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ). 
+<font style="font-family:Lucida Sans Unicode" font size="4">[4]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ). <br />  
 摘要：信息传播在各种复杂网络系统中普遍不在，了解信息传播过程对于优化网络结构和调控网络功能至关重要。然而，至今为止人们对信息传播的内在机理仍不清楚。本文提出多尺度传播预测（MScaleDP）方法。MScaleDP基于单向标签传播算法聚合本地转发决策行为，通过对本地转发行为建模，发现了信息传播过程的主要影响因素和底层驱动机制。%此外，我们发现传播预测的准确性并不总是随着特征数量的增长而增加。当考虑了足够多的数据特征时，传播预测的准确性与具体转发决策模型不存在强相关性。最终基于新浪微博数据，验证了本文工作。</font><br />     
     </body>
 </html> 
