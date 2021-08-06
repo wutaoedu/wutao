@@ -107,7 +107,7 @@
 [2]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2019 (In Review).<br /> 
 摘要：为了保护网络数据中的敏感关系、防御推理攻击，许多网络结构扰动方法被提出。然而，面向基于链路预测的推理攻击，存在的网络结构扰动方法的鲁棒性仍没有被充分研究。本文首先概述了代表性的网络结构扰动及链路预测方法。其次，本文提出基于多层线性编码的链路预测方法MLLC。本文基于实证分析探索了网络结构扰动方法的脆弱性。与传统链路预测方法相比，MLLC能够有效推理隐含的敏感关系，证明了强化网络结构扰动方法鲁棒程度的必要性。<br /> 
 [3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetLRC: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2019 (In Review).<br /> 
-摘要：基于低秩稀疏理论进行网络建模，探索网络数据的内在规律性，并提出网络可预测性度量。同时，提出面向链路预测的链路重要性度量方法。基于此度量，生成对抗网络。在代表性链路预测算法上的实验表明，此对抗网络生成方法能够有效降低链路预测方法的性能。同时，实验证明此方法具有良好的迁移性。<br /> 
+摘要：基于低秩稀疏理论进行网络建模，探索网络数据的内在规律性，并提出网络可预测性度量。提出面向链路预测的链路重要性度量方法。基于此度量，生成对抗网络。在代表性链路预测算法上的实验表明，此对抗网络生成方法能够有效降低链路预测方法的性能。同时，实验证明此方法具有良好的迁移性。<br /> 
 [4]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Shui Yu, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Network Prediction Models. Neurocomputing, 2020 (In Review).<br /> 
 摘要：近年来的研究揭示了机器学习算法对于对抗样本的脆弱性，引起了计算机视觉、文本挖掘等领域对于机器学习安全问题的研究。然而，对具有广泛应用前景的链路预测算法的安全问题没有充分关注。本文研究网络链路预测算法的对抗攻击问题，提出基于深度集成编码的链路预测对抗攻击算法DEC。实验表明，此对抗攻击算法能够明显抑制链路预测算法的性能。基于此方法，可以评价链路预测算法的鲁棒性。<br /> 
 ● 研究边缘计算时序数据预测算法的鲁棒性。相关论文列表如下：<br /> 
