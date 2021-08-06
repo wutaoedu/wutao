@@ -185,10 +185,10 @@
         <hr />  
     </body> 
   <body>
-          <font style="font-family:Lucida Sans Unicode" font size="4">[1]教材建设项目《Python数据分析与应用》</font><br />   
-	  <font style="font-family:Lucida Sans Unicode" font size="4">[2]《网络空间安全Python应用课程试题库建设与实践》</font><br />  
-	  <font style="font-family:Lucida Sans Unicode" font size="4">[3]本科“金课”建设项目《计算机取证技术》</font><br />  
-	  <font style="font-family:Lucida Sans Unicode" font size="4">[4]《Python应用》课程的内容设计与教学方法探索, 产业与科技论坛,2019,18(16):211-212.</font><br />  
+          <font style="font-family:Lucida Sans Unicode" font size="4">● 教材建设项目《Python数据分析与应用》</font><br />   
+	  <font style="font-family:Lucida Sans Unicode" font size="4">● 《网络空间安全Python应用课程试题库建设与实践》</font><br />  
+	  <font style="font-family:Lucida Sans Unicode" font size="4">● 本科“金课”建设项目《计算机取证技术》</font><br />  
+	  <font style="font-family:Lucida Sans Unicode" font size="4">● 《Python应用》课程的内容设计与教学方法探索, 产业与科技论坛,2019,18(16):211-212.</font><br />  
     </body>
 </html> 
 
