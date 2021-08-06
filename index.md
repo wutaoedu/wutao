@@ -21,32 +21,7 @@
         <hr />  
     </body> 
   </html>
-  
-  <html>
-	 <div style="text-align:center;width:600px;">
-<a href="academic.github.io">
-  <body>
-    <button><font style="font-family:黑体" font size="6.5">学术论文</font></button>
-    </body>
-</a>
-	<a href="scientific.github.io">
-  <body>
-    <button><font style="font-family:黑体" font size="6.5">科研项目</font></button>
-   </body>
-</a>
-	<a href="direction.github.io">
-  <body>
-    <button><font style="font-family:黑体" font size="6.5">科研方向</font></button>
-    </body>
-</a>
-	<a href="application.github.io">
-  <body>
-    <button><font style="font-family:黑体" font size="6.5">成果应用</font></button>
-    </body>
-</a>
-		 </div>
-  </html>
-  
+ 
 
   
   <html>   
