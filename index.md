@@ -91,6 +91,43 @@
     </body>
 </html> 
 
+
+<html>  
+    <h1>学术论文</h1>  
+    <body>  
+        <hr />  
+    </body>
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:214,106734.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Chao Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Structure Prediction Models. Neurocomputing , 2021: 437,168–185. （中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[4]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020,218:106674.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[5]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetSRE: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020, 196: 105800.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[6][18]Dingxiang Liu, Shaojie Qiao, Nan Han, Tao Wu, Rui Mao, Yongqing Zhang, Changan Yuan, Yueqiang Xiao. SOTB: Semi-Supervised Oversampling Approach Based on Trigonal Barycenter Theory. IEEE Access, 2020, 8: 50180-50189.（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[7]Chao Wang, Wenxiong Peng, Weihua Liu, Linyun Xiong, Tao Wu, Zhang Huaiqing, Zhao Wu, Lili Yu. An Adaptive FHMM Model for Non-Intrusive Load Monitoring. International Journal of Electrical Power and Energy Systems, 2020 (In Review).</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[8]Shaojie Qiao, Nan Han, Jianbin Huang, Kun Yue, Tao Wu, Rui Mao, Chang-an Yuan. Information Processing and Management, 2020 (In Review).</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[9]Shaojie Qiao, Haiquan Song, Faliang Huang, Tao Wu, Kun Yue, Rui Mao, Chang-an Yuan. A Hybrid Imbalanced Classification Approach by Combining Metric Learning. Engineering Applications of Artificial Intelligence, 2020 (In Review).</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[10]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.[1]（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[11]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[12]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[13]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 4.07). （中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[14]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[15]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[16]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,465:662-672 (SCI, Impact Factor: 2.132).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[17]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,448:68-80 (SCI, Impact Factor: 2.132). （中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[18]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 44(12) :2290-2299.</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[19]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. (SCI, Impact Factor: 2.643).（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[20]Shuai Zhang, Wei Wang, Tao Wu, and Tao Lin, Phase transition of a generalized contact process on complex Networks. Physica A, 2019, 534:122218.（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[21]Shuang Zhang, Tao Wu, Wei Wang, and Tao Lin. Irreversible contact process on complex networks with dynamical recovery probability, Physica A, 527, 121336, 2019 (SCI, Impact Factor: 2.500).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[22]Yanbing Liu, Tao Wu, Jun Huang, Shousheng Jia, A Stackelberg-Game Based Power Control Algorithm for Wireless Mesh Networks. Abstract and Applied Analysis, 2013, 4:1285-300（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[23]Yanbing Liu, Tao Wu, Xingping Xian, A Game-Theoretic Approach for Distributed Power Control in Wireless Mesh Networks. IEICE Transactions on Communications, 2011,94 (3) :818-822</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[24]王雪纯, 黄少平, 许爱东, 吴涛, 郭延文, 蒋屹新, 张宇男. 智能电网中边缘终端数据隐私保护方法【J】,南方电网技术, 2020, 14 (3) :74-79.</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">[25]许爱东, 郭延文, 吴涛, 王雪纯, 蒋屹新, 张宇南. 基于Bi-LSTM家庭用电量预测【J】,工业控制计算机, 2020, 33(4) :8-10.</font><br /> 
+    </body>
+</html> 
+
+
+
 <html>  
     <h1>发明专利</h1>  
     <body>  
