@@ -91,6 +91,45 @@
     </body>
 </html> 
 
+<html>  
+      <h1>成果应用</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="4">论文方面，通过近五年的研究与积累，发表论文20余篇，凝练出图挖掘（复杂网络）、数据隐私保护以及智能安全共三个研究方向。</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">1）图数据挖掘（复杂网络）：随着社交媒体以及智慧城市等相关应用的普及与发展，海量的网络数据对传统数据挖掘技术提出了新的挑战。本人关注网络数据分析领域的基础科学问题，包括社团检测[1]、节点排序[2] [3]、链路预测[4] [5]、信息传播问题[6-10]。基于图进行网络数据建模，希望通过对以上相关问题的研究，为网络数据这种新型数据的分析与利用提供技术支撑；</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">社团检测[Physica A’2016]、节点排序[Physica A’ 2017, Physica A’ 2018]、链路预测[4] [5]、信息传播问题[6-10]</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,448:68-80 (SCI, Impact Factor: 2.132).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[2]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[3]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[4]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:124544.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[5]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,465:662-672 (SCI, Impact Factor: 2.132).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[7]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. https://doi.org/10.1063/1.5114853.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[8]Shuai Zhang, Wei Wang, Tao Wu, and Tao Lin, Phase transition of a generalized contact process on complex Networks. Physica A, 2019, 534:122218.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[9]Shuang Zhang, Tao Wu, Wei Wang, and Tao Lin. Irreversible contact process on complex networks with dynamical recovery probability, Physica A, 527, 121336, 2019 (SCI, Impact Factor: 2.500).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[10]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 44(12).</font><br />
+
+  <font style="font-family:Lucida Sans Unicode" font size="4">2）数据隐私保护: 在大数据时代，数据带来了巨大价值的同时,也带来了用户隐私保护方面的难题，如何在数据开发应用的过程中保护用户隐私和防止敏感信息泄露成为新的挑战。本人依托“国家自然科学基金”项目，在传统表格类数据k-anonimity、l-diversity 、t-closeness和ε-differential privacy等方法的基础上，研究图数据的隐私保护问题，特别关注敏感关系的隐私保护，包括敏感关系推理[11]、网络可预测性度量[12]、抗推理攻击的结构调控与隐私保护[13] [14]；</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[11]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:94575-94593. (SCI, Impact Factor: 4.098).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[12]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020 (Accepted).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[13]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 4.07). </font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[14]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetLRC: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020 (Accepted).</font><br />
+
+
+  <font style="font-family:Lucida Sans Unicode" font size="4">3）智能安全防护: 伴随着社会智能化程度的提升，电力、交通、医疗等基础设施领域越来越依赖于智能应用系统。然而，当前研究领域对于智能算法的鲁棒性、安全性及可解释性问题尚未获得成熟认知，相关智能应用存在安全风险。本人依托“国家重点研发计划”项目，关注“电力系统边缘计算的安全防护技术”，搭建边缘计算环境，研究电力系统智能算法对抗攻击[15][16]、异常检测[17]、可搜索加密[18]等问题。</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[15]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[16]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Network Prediction Models. Neurocomputing, 2020.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[17]王雪纯，吴涛. 智能电网中边缘终端数据隐私保护方法【J】, 南方电网技术, 2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[18]胡志伟, 吴涛. 面向电力边缘数据分析的图分类算法研究进展【J】,  2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[19]朱静, 吴涛. 面向智能电网边缘计算的密文多关键字检索方法【J】,  2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[20]郭延文, 吴涛, 袁野. 基于Bi-LSTM家庭用电量预测【J】,  2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">[21]李锦涛, 吴涛. 基于动态时间规整的智能电网边缘数据去重技术【J】,2019.</font><br />     
+    </body>
+</html> 
+
+
 
 <html>  
     <h1>学术论文</h1>  
