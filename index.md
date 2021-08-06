@@ -23,35 +23,32 @@
   </html>
   
   <html>
+	 <div style="text-align:center;width:600px;">
 <a href="academic.github.io">
   <body>
     <button><font style="font-family:黑体" font size="6.5">学术论文</font></button>
     </body>
 </a>
-  </html>
-  
-  <html>
-<a href="scientific.github.io">
+	<a href="scientific.github.io">
   <body>
     <button><font style="font-family:黑体" font size="6.5">科研项目</font></button>
    </body>
 </a>
- </html>
- 
-   <html>
-<a href="direction.github.io">
+	<a href="direction.github.io">
   <body>
     <button><font style="font-family:黑体" font size="6.5">科研方向</font></button>
     </body>
 </a>
-  </html>
-  
-  <html>
-<a href="application.github.io">
+	<a href="application.github.io">
   <body>
     <button><font style="font-family:黑体" font size="6.5">成果应用</font></button>
     </body>
 </a>
+		 </div>
+  </html>
+  
+
+
   </html>
   
   <html>   
@@ -71,7 +68,7 @@
 </html> 
 
 <html>  
-      <h1>课题研究</h1>  
+      <h1>主要研究领域</h1>  
     <body>  
         <hr />  
     </body> 
