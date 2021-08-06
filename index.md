@@ -77,6 +77,24 @@
     </body>
 </html> 
 
+ <html>  
+      <h1>科研项目资助</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+<font style="font-family:Lucida Sans Unicode" font size="4">[1]国家自然科学基金青年项目，网络重构与调控算法研究及其隐私保护应用（61802039），25.0万元，2019.01-2021.12，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[2]国家重点研发计划，电力系统边缘计算的安全防护技术研究（2018YFB0904905）， 201.0万元，2018.07-2021.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[3] 重庆市自然科学基金面上项目，面向开放环境的图模型算法安全防护关键技术研究（cstc2020jcyj-msxmX0804），10.0万元，2020.07-2023.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[4]重庆市教委项目，网络大数据去燥增强关键技术研究（KJQN201800630），5.0万元，2018.07-2021.06【提前结题】</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[5]重庆邮电大学人才引进启动基金，网络推理重构与安全调控理论、算法和应用研究，（A2017-131），9.0万元，2017.07-2020.07，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[6] 中国三峡博物馆项目，大规模鲁棒可信文博知识图谱构建及应用，63.5万元，2020.07-2021.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[7]国家社会科学基金青年项目，人工智能产业核心技术突破中的创新共同体构建与协同机制研究，20.0万元，2021.01-2023.12，主研，排名第2</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[8] 中国三峡博物馆项目，大规模鲁棒性三峡文化知识图谱平台，150万元，2020.07-2021.12，在研，主持</font><br />     
+    </body>
+</html> 
+
+
 
 <html>  
     <h1>发明专利</h1>  
@@ -104,6 +122,42 @@
     </body>
 </html> 
 
+ <html>  
+      <h1>会议论文</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+<font style="font-family:Lucida Sans Unicode" font size="4">[1]Qun Liu, Xingping Xian, Songtao Guo, Tao Wu. Research on Cooperative Packet Forwarding and Punishment Mechanism in Wireless Sensor Networks [C]. IEEE International Conference on Granular Computing, 2010. (EI)</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[2]Qun Liu, Xingping Xian, Tao Wu, Game theoretic approach in routing protocol for cooperative wireless sensor networks [C], International Conference in Swarm Intelligence 2011: Advances in Swarm Intelligence, Berlin, Heidelberg, 2011. (EI 000309148700025)</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[3]Tao Wu, Leiting Chen, Yayong Guan, Xin Li, Yuxiao Guo. LPA based Hierarchical Community Detection [C], IEEE 17th International Conference on Computational Science and Engineering (CSE), Chengdu, 19-21 Dec. 2015 (EI 000380512100031).</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[4]Yayong Guan, Tao Wu, Jin Ning, Hong-Bin Cai. Hybrid attributes similarity measurement for spectral clustering [C], 11th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), Chengdu, 19-21 Dec. 2014 (EI, 20151700788342).</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[5]Guannan Ming, Tao Wu, Xiaofeng  Liao, Xingping Xian. Structural Predictability Regulation for Graph data[C], IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering. IEEE, 2019.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[6]Jing Zhu, Tao Wu, Jintao Li, Yanbin Liu, Qixin Jiang. Multi-keyword Cipher-text Retrieval Method for Smart Grid Edge Computing, 会议，2020</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[7]Yanwen Guo, Tao Wu, Yanbin Liu, Yixin Jiang. Univariate Forecasting Based on Improved Seq2Seq at the Edge of Power Grid, 会议，2020</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[8]王雪纯, 黄少平, 许爱东, 吴涛, 郭延文, 蒋屹新, 张宇男. 智能电网中边缘终端数据隐私保护方法【J】,南方电网技术, 2020, 14 (3) :74-79.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[9]Aidong Xu, Xuechun Wang, Yunan Zhang, Tao Wu, Xingping Xian. Adversarial Attacks on Deep Neural Networks for Time Series Prediction, ICICSE, 2021.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[10]Aidong Xu, Tao Wu, Yunan Zhang, Zhiwei Hu, Yixin Jiang. Graph-Based Time Series Edge Anomaly Detection in Smart Grid，BigDataSecurity, 2021.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[11]Yunan Zhang, Tao Wu and Xingping Xian. A Brief Survey on Privacy-Preserving Methods for Graph-Structured Data, ICIVIS2021</font><br />     
+    </body>
+</html> 
+
+  <html>  
+      <h1>代表性论文摘要</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 4.07). 
+摘要：基于图结构预测可以推理个体之间的潜在关系。为了保护敏感关系、防止推理攻击，在数据发布过程中有必要调控图数据的可预测性。本文基于主动学习思想和随机游走过程，选择、扰动具有代表性的网络链路，从而调控图的可预测性。另外，本文还基于低秩稀疏理论提出图结构可预测性度量方法，以指导图结构的扰动调控。实验证明本文提出的方法可以有效降低图数据中敏感关系被推理攻击的风险。</font><br />  
+<font style="font-family:Lucida Sans Unicode" font size="4">[2]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.243 ).
+摘要：中心性度量旨在量化节点在复杂系统中对于系统组织结构和功能的重要性。本文将两个具有互补特性的物理过程与经典特征向量中心性相结合，从而提出PIRank算法。在真实网络上的实验结果表明，PIRank比其他方法性能更好。与特征向量中心性相比，PIRank算法可以在保持相似运行时间的同时，将性能提高约30％，同时可以避免特征向量中心性的局部性问题。</font><br />  
+<font style="font-family:Lucida Sans Unicode" font size="4">[3]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 472:43-52 (SCI, Impact Factor: 2.132).
+摘要：复杂网络的功能通常取决于底层结构的完整性。为了有效破坏网络结构、影响网络功能，Morone和Makse（Nature Communications，2015）提出了一种称为CI的中心性度量方法。通过实验分析，我们发现CI中心性忽略了本地网络拓扑的结构特征。通过考虑环路密度和度多样性，本文提出了ECI中心性方法。实验结果表明ECI具有良好性能。同时发现，ECI的性能与网络异质系数和社团模块度正相关，与网络节点度异构性负相关。</font><br />  
+<font style="font-family:Lucida Sans Unicode" font size="4">[4]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 4.396 ). 
+摘要：信息传播在各种复杂网络系统中普遍不在，了解信息传播过程对于优化网络结构和调控网络功能至关重要。然而，至今为止人们对信息传播的内在机理仍不清楚。本文提出多尺度传播预测（MScaleDP）方法。MScaleDP基于单向标签传播算法聚合本地转发决策行为，通过对本地转发行为建模，发现了信息传播过程的主要影响因素和底层驱动机制。%此外，我们发现传播预测的准确性并不总是随着特征数量的增长而增加。当考虑了足够多的数据特征时，传播预测的准确性与具体转发决策模型不存在强相关性。最终基于新浪微博数据，验证了本文工作。</font><br />     
+    </body>
+</html> 
 
   <html>  
       <h1>教研教改项目及论文</h1>  
@@ -119,7 +173,7 @@
 </html> 
 
   <html>  
-      <h1>科研成果获奖</h1>  
+      <h1>学术奖励</h1>  
     <body>  
         <hr />  
     </body> 
