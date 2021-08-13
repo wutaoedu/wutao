@@ -33,14 +33,14 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">*数据挖掘与机器学习</font><br />  
-     <font style="font-family:Lucida Sans Unicode" font size="4">  (a)图数据挖掘，包括可预测性、链路预测、社团检测、信息传播等；</font><br /> 
-     <font style="font-family:Lucida Sans Unicode" font size="4">  (b)图机器学习，包括开放环境下的模型算法、可解释性研究；</font><br /> 
-     <font style="font-family:Lucida Sans Unicode" font size="4">  (c)知识计算：实体、关系抽取；自动问答；关系推理；  </font><br /> 
-     <font style="font-family:Lucida Sans Unicode" font size="4">  (d)手写体识别，包括古文本识别与处理等；</font><br /> 
-  <font style="font-family:Lucida Sans Unicode" font size="4">*智能安全与隐私保护</font><br /> 
-     <font style="font-family:Lucida Sans Unicode" font size="4">  （a）图数据隐私保护研究；</font><br /> 
-     <font style="font-family:Lucida Sans Unicode" font size="4">  （b）图模型安全，包括对抗攻击方法、实证分析、鲁棒性模型设计研究。</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">数据挖掘与机器学习</font><br />  
+     <font style="font-family:Lucida Sans Unicode" font size="4">&nbsp;&nbsp;（a）图数据挖掘，包括可预测性、链路预测、社团检测、信息传播等；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">&nbsp;&nbsp;（b）图机器学习，包括开放环境下的模型算法、可解释性研究；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">&nbsp;&nbsp;（c）知识计算：实体、关系抽取；自动问答；关系推理；  </font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">&nbsp;&nbsp;（d）手写体识别，包括古文本识别与处理等；</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">智能安全与隐私保护</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">&nbsp;&nbsp;（a）图数据隐私保护研究；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">&nbsp;&nbsp;（b）图模型安全，包括对抗攻击方法、实证分析、鲁棒性模型设计研究。</font><br />
     </body>
 </html> 
 
@@ -215,7 +215,19 @@
     </body>
 </html> 
 
-
+  <html>  
+      <h1>教育教学情况</h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+ <font style="font-family:Lucida Sans Unicode" font size="4">[1]主讲本科生课程《Python应用》、《程序设计综合实践》;</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[2] 主讲研究生课程《数据隐私与社交网络》;</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[3] 主持教材建设项目《Python数据分析与应用》；</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[4] 主持试题库建设项目《Python应用课程试题库建设与实践》；</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[5] 主持本科“金课”建设项目《Python应用》；</font><br />     
+    </body>
+</html> 
 
   <html>  
       <h1>荣誉及奖项</h1>  
@@ -236,20 +248,7 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Python数据分析与应用，吴涛、徐光侠、刘俊编著，同济大学出版社，2019.08, ISBN 978-7-5608-8673-2.</font><br />     
+  <font style="font-family:Lucida Sans Unicode" font size="4">● Python数据分析与应用，吴涛、徐光侠、刘俊编著，同济大学出版社，2019.08, ISBN 978-7-5608-8673-2.</font><br />     
     </body>
 </html> 
 
-  <html>  
-      <h1>教育教学情况</h1>  
-    <body>  
-        <hr />  
-    </body> 
-  <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">[1]主讲本科生课程《Python应用》、《程序设计综合实践》;</font><br /> 
-<font style="font-family:Lucida Sans Unicode" font size="4">[2] 主讲研究生课程《数据隐私与社交网络》;</font><br /> 
-<font style="font-family:Lucida Sans Unicode" font size="4">[3] 主持教材建设项目《Python数据分析与应用》；</font><br /> 
-<font style="font-family:Lucida Sans Unicode" font size="4">[4] 主持试题库建设项目《Python应用课程试题库建设与实践》；</font><br /> 
-<font style="font-family:Lucida Sans Unicode" font size="4">[5] 主持本科“金课”建设项目《Python应用》；</font><br />     
-    </body>
-</html> 
