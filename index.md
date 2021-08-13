@@ -14,8 +14,9 @@
     </td>
     </tr>
 </html>
-
-
+<td id="layout-menu">
+    <div class="menu-item"><a href="education.html">Education (教育背景)</a></div>
+</td>
   
 <html>  
       <h1><font size="5">个人简介</font></h1>  
