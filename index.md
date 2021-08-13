@@ -3,10 +3,10 @@
     <td width="50%">
       <body>
         <img src="/zhaopian.png" width="23%" style="float:right;" /> 
-      <font style="font-family:黑体" font size="10">吴涛  Wu Tao</font><br />
+      <font style="font-family:黑体" font size="8">吴涛  Wu Tao</font><br />
       <font style="font-family:黑体" font size="5">博士、副教授、硕士生导师</font><br />
       <font style="font-family:黑体" font size="5">重庆邮电大学 网络空间安全与信息法学院</font><br />
-      <font style="font-family:黑体" font size="5">智能安全与知识计算实验室</font><br />
+      <font style="font-family:黑体" font size="5">网络空间与信息安全重庆市重点实验室</font><br />
       <font style="font-family:黑体" font size="5">重庆市南岸区崇文路2号 重庆邮电大学</font><br /> 
       <font style="font-family:黑体" font size="5">邮箱：wutao@cqupt.edu.cn</font><br />
       <font style="font-family:黑体" font size="5">电话：+86 15884569957</font><br />
@@ -23,7 +23,7 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">重庆邮电大学网络空间安全专业副教授、硕士生导师。主要从事智能算法安全、数据隐私保护、知识计算等方向的研究工作，是重庆邮电大学网络空间安全团队科研骨干。主要从事图机器学习、智能算法安全、知识图谱与知识计算、复杂数据（图数据、时序数据）隐私保护等研究。已在《Knowledge-Based Systems》、《Neurocomputing》、《自动化学报》等国内外权威期刊和会议上正式发表学术论文40余篇，其中SCI检索高水平期刊论文20余篇。研究成果被《PloS one》、《Scientific Reports》、《Computers & Electrical Engineering》等期刊论文引用近百次。同时，从事智能算法安全、数据隐私保护等方向的科研工作，主持国家自然科学基金、国家重点研发计划子课题项目各 1 项，主持重庆市自然科学基金面上项目等省部级项目2项以及横向课题2项，参与国家社会科学基金项目1项，发表高水平学术论文30余篇，申请国家发明专利17件，软件著作权 1 项，获四川省科技进步二等奖1项。特别是结合复杂网络、图神经网络以及知识计算，提出了面向开放环境智能知识计算系统的图学习模型安全理论与方法，相关成果应用于智慧城市、智能电网、智慧文博等领域。</font><br />     
+  <font style="font-family:Lucida Sans Unicode" font size="4">重庆邮电大学副教授，硕士生导师。中国计算机学会(CCF)、中国人工智能学会（CAAI）、电气电子工程师学会（IEEE）会员。主要研究方向：图机器学习、智能算法安全、知识图谱与知识计算、数据隐私保护等研究。近五年来，已在国内外权威期刊和会议上正式发表学术论文30余篇，包括Knowledge-Based Systems、Neurocomputing、自动化学报等。主持国家重点研发计划子课题、国家自然科学基金项目、重庆市自然科学基金面上项目、重庆市教委科技项目及横向课题等8项。申请国家发明专利10余项，已授权5项，获四川省科技进步二等奖1项。相关成果应用于智慧城市、智能电网、智慧文博等领域。担任Knowledge-Based Systems（KBS），China Communication, Physica A，Tinghua Science and Technology等十余个国际期刊评审。荣获重庆邮电大学2020年优秀教师奖、2020年重庆市事业单位年度优秀奖、重庆邮电大学2021年优秀共产党员奖。</font><br />     
     </body>
 </html> 
 
@@ -33,9 +33,14 @@
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 研究智能算法的对抗攻击问题，探索当前智能算法的安全弱点与不足，开发面向边缘计算的鲁棒性机器学习算法。具体的，关注图挖掘与时序数据分析相关的机器学习算法，设计有效的对抗攻击方法。在此基础上，设计轻量级的、鲁棒性机器学习算法；</font><br />
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 研究数据中毒攻击、对抗样本逃逸攻击的安全检测问题，实时准确的发现攻击行为，进行有效防御。边缘计算环境下机器学习算法面临独有的安全挑战。特别的，在边缘终端，恶意攻击者能够通过干扰传感器操纵训练数据。因此，其面临严重的“数据中毒攻击”风险。同时，由于边缘终端的功能特性，结合边缘环境的开放性，“对抗逃逸攻击”是边缘智能应用面临的突出安全挑战。因此，研究边缘智能的“中毒攻击”及“逃逸攻击”的检测与防御方法具有重要意义。</font><br />
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 研究边缘终端分布式协同智能计算的安全问题。由于边缘终端计算能力的局限性，往往需要多个终端之间协同才能有效完成计算任务。本课题关注典型的分布式协同学习机制，研究联邦学习过程，强化协同交互过程中的数据隐私保护与安全防护，设计分布式协同学习的攻击防御方法。</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="4">*数据挖掘与机器学习</font><br />  
+     <font style="font-family:Lucida Sans Unicode" font size="4">  (a)图数据挖掘，包括可预测性、链路预测、社团检测、信息传播等；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">  (b)图机器学习，包括开放环境下的模型算法、可解释性研究；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">  (c)知识计算：实体、关系抽取；自动问答；关系推理；  </font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">  (d)手写体识别，包括古文本识别与处理等；</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="4">*智能安全与隐私保护</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">  （a）图数据隐私保护研究；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="4">  （b）图模型安全，包括对抗攻击方法、实证分析、鲁棒性模型设计研究。</font><br />
     </body>
 </html> 
 
@@ -45,14 +50,14 @@
         <hr />  
     </body> 
   <body>
-<font style="font-family:Lucida Sans Unicode" font size="4">● 国家自然科学基金青年项目，网络重构与调控算法研究及其隐私保护应用（61802039），25.0万元，2019.01-2021.12，在研，主持</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">● 国家重点研发计划，电力系统边缘计算的安全防护技术研究（2018YFB0904905）， 201.0万元，2018.07-2021.06，在研，主持</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">●  重庆市自然科学基金面上项目，面向开放环境的图模型算法安全防护关键技术研究（cstc2020jcyj-msxmX0804），10.0万元，2020.07-2023.06，在研，主持</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">● 重庆市教委项目，网络大数据去燥增强关键技术研究（KJQN201800630），5.0万元，2018.07-2021.06【提前结题】</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">● 重庆邮电大学人才引进启动基金，网络推理重构与安全调控理论、算法和应用研究，（A2017-131），9.0万元，2017.07-2020.07，主持</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">● 中国三峡博物馆项目，大规模鲁棒可信文博知识图谱构建及应用，63.5万元，2020.07-2021.06，在研，主持</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">● 国家社会科学基金青年项目，人工智能产业核心技术突破中的创新共同体构建与协同机制研究，20.0万元，2021.01-2023.12，主研，排名第2</font><br />
-<font style="font-family:Lucida Sans Unicode" font size="4">● 中国三峡博物馆项目，大规模鲁棒性三峡文化知识图谱平台，150万元，2020.07-2021.12，在研，主持</font><br />     
+<font style="font-family:Lucida Sans Unicode" font size="4">[1]国家自然科学基金青年项目，网络重构与调控算法研究及其隐私保护应用（61802039），2019.01-2021.12，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[2]国家重点研发计划，电力系统边缘计算的安全防护技术研究（2018YFB0904905）， 2018.07-2021.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[3] 重庆市自然科学基金面上项目，面向开放环境的图模型算法安全防护关键技术研究（cstc2020jcyj-msxmX0804），2020.07-2023.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[4]重庆市教委项目，网络大数据去燥增强关键技术研究（KJQN201800630），2018.07-2021.06【提前结题】</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[5]重庆邮电大学人才引进启动基金，网络推理重构与安全调控理论、算法和应用研究，（A2017-131）,2017.07-2020.07，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[6] 横向项目,大规模鲁棒可信文博知识图谱构建及应用，2020.07-2021.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[7]国家社会科学基金青年项目，人工智能产业核心技术突破中的创新共同体构建与协同机制研究，2021.01-2023.12，主研，排名第2</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="4">[8] 横向项目, 大规模鲁棒性三峡文化知识图谱平台，2020.07-2021.12，在研，主持</font><br />
     </body>
 </html> 
 
@@ -134,7 +139,7 @@
 </html> 
 
 <html>  
-    <h1>学术论文</h1>  
+    <h1>代表性论文</h1>  
     <body>  
         <hr />  
     </body>
@@ -160,10 +165,6 @@
   <font style="font-family:Lucida Sans Unicode" font size="4">[19]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. (SCI, Impact Factor: 2.643).（中科院SCI二区）</font><br /> 
   <font style="font-family:Lucida Sans Unicode" font size="4">[20]Shuai Zhang, Wei Wang, Tao Wu, and Tao Lin, Phase transition of a generalized contact process on complex Networks. Physica A, 2019, 534:122218.（中科院SCI三区）</font><br /> 
   <font style="font-family:Lucida Sans Unicode" font size="4">[21]Shuang Zhang, Tao Wu, Wei Wang, and Tao Lin. Irreversible contact process on complex networks with dynamical recovery probability, Physica A, 527, 121336, 2019 (SCI, Impact Factor: 2.500).（中科院SCI三区）</font><br /> 
-  <font style="font-family:Lucida Sans Unicode" font size="4">[22]Yanbing Liu, Tao Wu, Jun Huang, Shousheng Jia, A Stackelberg-Game Based Power Control Algorithm for Wireless Mesh Networks. Abstract and Applied Analysis, 2013, 4:1285-300（中科院SCI二区）</font><br /> 
-  <font style="font-family:Lucida Sans Unicode" font size="4">[23]Yanbing Liu, Tao Wu, Xingping Xian, A Game-Theoretic Approach for Distributed Power Control in Wireless Mesh Networks. IEICE Transactions on Communications, 2011,94 (3) :818-822</font><br /> 
-  <font style="font-family:Lucida Sans Unicode" font size="4">[24]王雪纯, 黄少平, 许爱东, 吴涛, 郭延文, 蒋屹新, 张宇男. 智能电网中边缘终端数据隐私保护方法【J】,南方电网技术, 2020, 14 (3) :74-79.</font><br /> 
-  <font style="font-family:Lucida Sans Unicode" font size="4">[25]许爱东, 郭延文, 吴涛, 王雪纯, 蒋屹新, 张宇南. 基于Bi-LSTM家庭用电量预测【J】,工业控制计算机, 2020, 33(4) :8-10.</font><br /> 
     </body>
 </html> 
 
@@ -217,19 +218,6 @@
 
 
   <html>  
-      <h1>教研教改项目</h1>  
-    <body>  
-        <hr />  
-    </body> 
-  <body>
-          <font style="font-family:Lucida Sans Unicode" font size="4">● 教材建设项目《Python数据分析与应用》</font><br />   
-	  <font style="font-family:Lucida Sans Unicode" font size="4">● 《网络空间安全Python应用课程试题库建设与实践》</font><br />  
-	  <font style="font-family:Lucida Sans Unicode" font size="4">● 本科“金课”建设项目《计算机取证技术》</font><br />  
-	  <font style="font-family:Lucida Sans Unicode" font size="4">● 《Python应用》课程的内容设计与教学方法探索, 产业与科技论坛,2019,18(16):211-212.</font><br />  
-    </body>
-</html> 
-
-  <html>  
       <h1>荣誉及奖项</h1>  
     <body>  
         <hr />  
@@ -241,23 +229,27 @@
     </body>
 </html> 
   
-  <html>  
-      <h1>软件著作权</h1>  
+
+ <html>  
+      <h1>出版书籍</h1>  
     <body>  
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 电力边缘计算安全防护平台，登记号2020SR0987753, 开发人员列表：吴涛、杨楠、刘宴兵、周由胜、 陈龙、祝清意、朱静
-</font><br />     
+  <font style="font-family:Lucida Sans Unicode" font size="4">[1]Python数据分析与应用，吴涛、徐光侠、刘俊编著，同济大学出版社，2019.08, ISBN 978-7-5608-8673-2.</font><br />     
     </body>
 </html> 
 
- <html>  
-      <h1>教材出版</h1>  
+  <html>  
+      <h1>教育教学情况</h1>  
     <body>  
         <hr />  
     </body> 
   <body>
-  <font style="font-family:Lucida Sans Unicode" font size="4">● 《Python数据分析与应用》, 同济大学出版社, ISBN 978-7-5608-8673-2, 2019（排名第一）</font><br />     
+  <font style="font-family:Lucida Sans Unicode" font size="4">[1]主讲本科生课程《Python应用》、《程序设计综合实践》;</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[2] 主讲研究生课程《数据隐私与社交网络》;</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[3] 主持教材建设项目《Python数据分析与应用》；</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[4] 主持试题库建设项目《Python应用课程试题库建设与实践》；</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="4">[5] 主持本科“金课”建设项目《Python应用》；</font><br />     
     </body>
 </html> 
