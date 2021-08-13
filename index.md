@@ -18,7 +18,7 @@
 
   
 <html>  
-      <h1><font size="3">个人简介</font></h1>  
+      <h1><font size="5">个人简介</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -28,7 +28,7 @@
 </html> 
 
 <html>  
-      <h1>主要研究领域</h1>  
+      <h1><font size="5">主要研究领域</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -45,7 +45,7 @@
 </html> 
 
  <html>  
-      <h1>科研项目资助</h1>  
+      <h1><font size="5">科研项目资助</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -62,7 +62,7 @@
 </html> 
 
 <html>  
-      <h1>取得研究基础</h1>  
+      <h1><font size="5">取得研究基础</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -84,7 +84,7 @@
 </html> 
 
 <html>  
-      <h1>成果应用</h1>  
+      <h1><font size="5">成果应用</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -119,7 +119,7 @@
 </html> 
 
  <html>  
-      <h1>会议论文</h1>  
+      <h1><font size="5">会议论文</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -139,7 +139,7 @@
 </html> 
 
 <html>  
-    <h1>代表性论文</h1>  
+    <h1><font size="5">代表性论文</font></h1>  
     <body>  
         <hr />  
     </body>
@@ -171,7 +171,7 @@
 
 
   <html>  
-      <h1>代表性论文摘要</h1>  
+      <h1><font size="5">代表性论文摘要</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -190,7 +190,7 @@
 
 
 <html>  
-    <h1>发明专利</h1>  
+    <h1><font size="5">发明专利</font></h1>  
     <body>  
         <hr />  
     </body>
@@ -216,7 +216,7 @@
 </html> 
 
   <html>  
-      <h1>教育教学情况</h1>  
+      <h1><font size="5">教育教学情况</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -230,7 +230,7 @@
 </html> 
 
   <html>  
-      <h1>荣誉及奖项</h1>  
+      <h1><font size="5">荣誉及奖项</font></h1>  
     <body>  
         <hr />  
     </body> 
@@ -243,7 +243,7 @@
   
 
  <html>  
-      <h1>出版书籍</h1>  
+      <h1><font size="5">出版书籍</font></h1>  
     <body>  
         <hr />  
     </body> 
