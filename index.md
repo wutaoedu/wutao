@@ -18,7 +18,7 @@
 
   
 <html>  
-      <h1>个人简介</h1>  
+      <h1><font size="3">个人简介</font></h1>  
     <body>  
         <hr />  
     </body> 
