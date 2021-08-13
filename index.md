@@ -1,391 +1,254 @@
-   <html>
-
-<head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <base href="https://gcatnjust.github.io/ChenGong/">
-</head>
-
-<body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<h1 style="padding-left: 0.5em">Chen Gong (宫辰)'s Homepage</h1><hr>
-<td id="layout-menu">
-    <div class="menu-item"><a href="index.html" class="current">Home (首页)</a></div>
-	<!-- <div class="menu-item"><a href="news.html">News</a></div> -->
-    <div class="menu-item"><a href="education.html">Education (教育背景)</a></div>
-	<!-- <div class="menu-item"><a href="contact.html">Contact (联系方式)</a></div> -->
-	<div class="menu-item"><a href="publications.html">Publications (学术论文)</a></div>
-	<div class="menu-item"><a href="patents.html">Patents (专利)</a></div>
-	<div class="menu-item"><a href="service.html">Services (学术服务)</a></div>
-	<div class="menu-item"><a href="codes.html">Codes (代码)</a></div>
-    <div class="menu-item"><a href="teaching.html">Teaching (教学)</a></div>
-	<div class="menu-item"><a href="awards.html">Awards (获奖情况)</a></div>
-    <div class="menu-item"><a href="talks.html">Talks (报告与讲座)</a></div>
-	<div class="menu-item"><a href="members.html">Group Members (课题组成员)</a></div>
-	<div class="menu-item"><a href="recruitement.html">Call for Students (招生信息)</a></div>
-    <!--<div class="menu-item"><a href="codedata.html">Codes & Data</a></div>
-    <!--<div class="menu-item"><a href="seminar.html">ML Seminar</a></div>-->
-</td>
-<td id="layout-content">
-
-    <h1 style="margin-top: 0em">Welcome to my homepage! 欢迎访问我的主页!</h1><br>
-  <!--  <p>[ <a href="#news">News</a>,
-        <a href="#interest">Research Interests</a>,
-        <a href="#job">Job Experience</a>,
-        <a href="#edu">Education</a> ]</p>-->
-
-    <table class="imgtable"><tr valign="top">
-        <td><img src="zhaopian.jpg" alt="MyPhoto" /></td>
-        <td align="left">
-            <p><span style="font-size: 110%"><b>Chen Gong</b></span></p>
-            <p>
-                Professor, PhD Supervisor (教授、博导) <br>
-				School of Computer Science and Technology<br>
-				Nanjing University of Science and Technology<br>
-				南京理工大学计算机科学与工程学院<br>
-				<!--Postdoc Fellow (with <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/" target="_blank">Masashi Sugiyama</a>)<br>
-                <a href="https://aip.riken.jp/labs/generic_tech/imperfect_inf_learn/" target="_blank">Imperfect Information Learning Team</a><br>
-                <a href="http://www.riken.jp/en/" target="_blank">RIKEN</a>
-                <a href="https://aip.riken.jp/" target="_blank">Center for Advanced Intelligence Project</a> -->
-            </p>
-<!--             <p>
-                Assistant Professor<br>
-                <a href="https://www.comp.hkbu.edu.hk/v1/?page=home" target="_blank">Department of Computer Science</a><br>
-                <a href="https://www.hkbu.edu.hk/eng/main/index.jsp" target="_blank">Hong Kong Baptist University</a>
-            </p> -->
-
-            <p>
-                Address: Room 4030, Dingxin Building, Nanjing University of Science and Technology <br> 
-				No. 200, Xiaolingwei Street, Xuanwu, Nanjing, Jiangsu, China, 210094<br>
-				通讯地址：中国江苏省南京市玄武区孝陵卫街200号南京理工大学鼎新楼4030室<br>
-				邮编：210094                
-            </p>
-			
-            <p>
-                E-mail: chen.gong@njust.edu.cn<br>
-                <a href="https://scholar.google.com.hk/citations?user=guttoBwAAAAJ&hl=zh-CN" target="_blank">[Google Scholar (谷歌学术)]</a>
-                <a href="http://202.119.85.163/open/TutorInfo.aspx?dsbh=3XCKde28ejRVYPAsrGYvhw==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=" target="_blank">[University Website (学校主页)]</a>
-				<a href="https://dblp.org/pers/hd/g/Gong_0002:Chen" target="_blank">[dblp]</a>
-				<br>
-               
-            </p>			 
-				
-		
-        </td>
-    </tr></table>
-	
-	<div>
-        <h2><hr><a name="openning_positions"></a><p style="color:red;">Opening Positions (研究岗位)</p></h2>
-        <ul>
-           1. There are opening research positions in my group at all levels, including Postdoc, research assistant, Ph.D. student, and master student. 
-		   Please drop me an E-mail which contains your CV, score sheet, certificates, and representative publications if you are interested.</br>
-		   2. I'm always looking for self-motivated undergraduate students (mainly @NJUST) to join my group for research training! </br>
-		   
-		   </br>
-		   
-		   1. 我的课题组目前有研究岗位若干，包括博士后、研究助理、博士、硕士等。如果您感兴趣，请将您的简历、成绩单、获奖证书、代表作发至我的邮箱。</br>
-		   2. 十分欢迎优秀的本科生（主要面向本校同学）来我的课题组参加科研训练！ </br>
-        </ul>	
-		 
-    </div>
-	
-	
-	<div>
-        <h2><hr><a name="biography"></a>Brief Biography (个人简介)</h2>
-        <ul>
-           Chen Gong received his B.E. degree from East China University of Science and Technology (ECUST) in 2010, and dual doctoral degree from Shanghai Jiao Tong University (SJTU) and University of Technology Sydney (UTS) in 2016 and 2017, respectively. 
-		   Currently, he is a full professor in the School of Computer Science and Engineering, Nanjing University of Science and Technology. 
-		   He has published more than 100 technical papers at prominent journals and conferences such as IEEE T-PAMI, IEEE T-NNLS, IEEE T-IP, IEEE T-CYB, ICML, NeurIPS, CVPR, AAAI, IJCAI, ICDM, etc, and also holds six granted invention patents. 
-		   He also serves as the reviewer for more than 20 international journals such as AIJ, JMLR, IEEE T-PAMI, IEEE T-NNLS, IEEE T-IP,IEEE T-KDE, and also the SPC/PC member of several top-tier conferences such as ICML, NeurIPS, CVPR, AAAI, IJCAI, ICDM, etc. 
-		   He received the "Wu Wen-Jun AI Excellent Youth Scholar Award", "Young Elite Scientists Sponsorship Program" of China Association for Science and Technology, "Hong Kong Scholar", the second prize of Shanghai Natural Science Award, and "Excellent Doctorial Dissertation award" by Shanghai Jiao Tong University (SJTU) and Chinese Association for Artificial Intelligence (CAAI). 
-		
-        </ul>
-		
-		 <ul>
-           宫辰现任南京理工大学计算机科学与工程学院教授、博导。于2010年获得华东理工大学学士学位，并分别于2016、2017年获上海交通大学和悉尼科技大学双博士学位。
-		   已在世界顶级期刊或会议上发表100余篇学术论文，主要包括IEEE T-PAMI, IEEE T-NNLS, IEEE T-IP, IEEE T-CYB, ICML, NeurIPS, CVPR, AAAI, IJCAI, ICDM等，另有6项发明专利获得授权。
-		   目前担任AIJ、JMLR、IEEE T-PAMI、IEEE T-NNLS、IEEE T-IP、IEEE T-KDE等20余家国际权威期刊审稿人，并受邀担任ICML、NeurIPS、CVPR、IJCAI、AAAI、ICDM等多个国际会议的PC member。
-		   曾获吴文俊人工智能优秀青年奖、中国科协“青年人才托举工程”、中国人工智能学会“优秀博士学位论文”奖、上海市自然科学二等奖、上海交通大学“优秀博士学位论文”奖、江苏省“六大人才高峰”、江苏省“双创博士”、江苏省科协“青年人才托举工程”、“香江学者”等。
-		
-        </ul>
-    </div>
-	
- <div>
-        <h2><hr><a name="news"></a>News (新闻)</h2>
-        <ul>		   
-		   <!-- <li><p> <font face="verdana" color="red">[Top]</font> CFP: We are currently organizing a workshop on IJCAI 2021 with the topic "<a href="https://wsl-workshop.github.io/">Weakly Supervised Representation Learning</a>". Contributions are welcomed! </br> -->
-		   <!-- <font face="black" color="red">[置顶]</font> 征稿启事：我们目前在IJCAI 2021上组织关于“<a href="https://wsl-workshop.github.io/">弱监督表示学习</a>”的workshop，欢迎赐稿！</p></li> -->
-		  	
-		   <li><p>Our paper "Hyperspectral Image Classification With Context-Aware Dynamic Graph Convolutional Network" was selected as a ESI highly cited paper! </br>
-		   论文"Hyperspectral Image Classification With Context-Aware Dynamic Graph Convolutional Network"入选ESI高被引论文（本领域世界前1%的论文）！ </p></li>
-		   
-		   <li><p> Our paper "Estimating Human Pose Efficiently by Parallel Pyramid Networks" was accepted by IEEE T-IP! </br>
-		   论文"Estimating Human Pose Efficiently by Parallel Pyramid Networks"被IEEE T-IP录用！</p></li>
-		   
-		   <li><p>I was invited to be a reviewer for AISTATS 2022 </br>
-		   我受邀担任AISTATS 2022审稿人 </p></li>	
-
-		   <li><p> Our group won the 1st place of CVPR 2021 Learning from Imperfect Data (LID) challenge (Weakly-supervised Object Localization Track), and the 3rd place in the Weakly-supervised Semantic Segmentation Track! </br>
-		   团队获得CVPR 2021不完备数据竞赛弱监督目标定位项目冠军及弱监督语义分割项目季军！</p></li>	
-			
-		   <li><p> Our paper "Edge-aware Multi-scale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images" was accepted by IEEE T-GRS! </br>
-		   论文"Edge-aware Multi-scale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images"被IEEE T-GRS录用！</p></li>
-		   
-		   <li><p>I was invited to be a reviewer for ICLR 2022 </br>
-		   我受邀担任ICLR 2022审稿人 </p></li>	
-		   
-		   <li><p> Our paper "Modeling Cardinality in Image Hashing" was accepted by IEEE T-CYB! </br>
-		   论文"Modeling Cardinality in Image Hashing"被IEEE T-CYB录用！</p></li>
-		   
-		   <li><p> Shuo Chen's thesis was selected as "Outstanding PhD thesis" of NJUST! Jingchen Ke's thesis was selected as "Outstanding Master thesis" of NJUST! Big congratulations!</br>
-		   祝贺课题组陈硕获得南理工优秀博士学位论文！柯京辰获得南理工优秀专业硕士学位论文！</p></li>
-		   
-		   <li><p> Our paper "SDOF-GAN: Symmetric Dense Optical Flow Estimation with Generative Adversarial Networks" was accepted by IEEE T-IP! </br>
-		   论文"SDOF-GAN: Symmetric Dense Optical Flow Estimation with Generative Adversarial Networks"被IEEE T-IP录用！</p></li>
-		   
-		   <li><p> Our paper "Large-Margin Contrastive Learning with Distance Polarization Regularizer" was accepted by ICML 2021! </br>
-		   论文"Large-Margin Contrastive Learning with Distance Polarization Regularizer"被ICML 2021录用！</p></li>
-		   
-		   <li><p> Our paper "Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning" was accepted by IJCAI 2021! </br>
-		   论文"Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning"被IJCAI 2021录用！</p></li>
-		   
-		   <li><p> Our paper "Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification" was accepted by IEEE T-GRS! </br>
-		   论文"Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification"被IEEE T-GRS录用！</p></li>
-		   
-		   <li><p>I was invited to be a Senior PC member for ACML 2021, and PC member for CIKM 2021 </br>
-		   我受邀担任ACML 2021 Senior PC member以及CIKM 2021 PC member</p></li>	
-		   
-		   <li><p>I was invited to be a reviewer for NeurIPS 2021 </br>
-		   我受邀担任NeurIPS 2021审稿人 </p></li>		   
-		   
-		   <li><p> Our paper "Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning" was accepted by IEEE T-NNLS! </br>
-		   论文"Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning"被IEEE T-NNLS录用！</p></li>
-		   
-		   <li><p>Our paper "Instance-Dependent Positive and Unlabeled Learning with Labeling Bias Estimation" was accepted by IEEE T-PAMI! </br>		   
-		   论文"Instance-Dependent Positive and Unlabeled Learning with Labeling Bias Estimation"被IEEE T-PAMI录用！ </p></li>
-		   
-		   <li><p>I was invited to be a reviewer for ECML-PKDD 2021 </br>		   
-		   我受邀担任ECML-PKDD 2021审稿人 </p></li>
-		   
-		   <li><p> I gave a keynote speech at International Conference on Electronics, Circuits and Information Engineering 2021. </br>
-		   我在ECIE 2021大会上作主旨报告</p></li>
-		   
-		   <li><p> I was invited to be a reviewer for ICIP 2021 </br>
-		   我受邀担任ICIP 2021审稿人</p></li>
-		   
-		   <li><p> Our paper "Robust Early-Learning: Hindering the Memorization of Noisy Labels" was accepted by ICLR 2021! </br>
-		   论文"Robust Early-Learning: Hindering the Memorization of Noisy Labels"被ICLR 2021录用！</p></li>
-		   
-		   <li><p>I was invited to be a reviewer for ICCV 2021 </br>		   
-		   我受邀担任ICCV 2021审稿人 </p></li>
-		   
-		   <li><p> Our paper "Cost-Sensitive Positive and Unlabeled Learning" was accepted by Information Sciences! </br>
-		   论文"Cost-Sensitive Positive and Unlabeled Learning"被Information Sciences录用！</p></li>
-		   
-		   <li><p> Jingchen Ke's thesis won "JSAI outstanding master thesis candidate" award</br>
-		   柯京辰的硕士论文获得江苏省人工智能学会优秀硕士论文提名奖</p></li>
-		   
-		   <li><p> I was invited to be a reviewer for IJCV</br>
-		   我受邀担任IJCV审稿人</p></li>
-		   
-		   <li><p> I gave a talk at Southeast University</br>
-		   我在东南大学作学术报告</p></li>
-		   
-		   <li><p>Our paper "Centroid Estimation with Guaranteed Efficiency: A General Framework for Weakly Supervised Learning" was accepted by IEEE T-PAMI! </br>		   
-		   论文"Centroid Estimation with Guaranteed Efficiency: A General Framework for Weakly Supervised Learning"被IEEE T-PAMI录用！ </p></li>
-		   
-		   <li><p>I was invited to be a reviewer for ICML 2021  </br>		   
-		   我受邀担任ICML 2021审稿人 </p></li>
-		   
-		   <li><p> Hong Shi won the "Software Scholarship" of Jiangsu province!  </br>
-		   毕业生史红获得江苏软件奖学金！
-		   
-		   <li><p> Our papers "Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning", "Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model" and "Learning with Group Noise" were accepted by AAAI 2021!  </br>
-		   课题组3篇论文"Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning"、"Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model"、"Learning with Group Noise" 被AAAI 2021接收！</p></li>
-		   
-		   <li><p> Our research on semi-supervised learning won the second prize of Shanghai Natural Science Award!  </br>
-		   我参与的研究荣获上海市自然科学二等奖（排名第2）！</p></li>
-		   
-		   <li><p> Sheng Wan, Yijing Luo and Yao Yao received the “Excellent Postgraduate Award”!  </br>
-		   课题组万升、罗一京、姚垚（协同指导）获得“优秀研究生”称号！</p></li>
-		   
-		   <li><p> I was selected as top 10% reviewer for NeurIPS 2020!  </br>
-		   我当选NeurIPS 2020前10%审稿人！</p></li>
-		   
-		   <li><p> Yijing Luo, Yao Yao and Zongze Lu were awarded the national scholarship!  </br>
-		   课题组罗一京、姚垚（协同指导）、陆宗泽荣获国家奖学金！</p></li>
-		   
-		   <li><p>Our paper "Edge-Aware Graph Attention Network for Ratio of Edge-User Estimation in Mobile Networks" was accepted by ICPR 2020! </br>		   
-		   论文"Edge-Aware Graph Attention Network for Ratio of Edge-User Estimation in Mobile Networks"被ICPR 2020录用！ </p></li>
-		   
-		   <li><p>Our paper "Learning Data-adaptive Non-parametric Kernels" was accepted by JMLR! </br>		   
-		   论文"Learning Data-adaptive Non-parametric Kernels"被JMLR录用！ </p></li>
-		   
-		   <li><p>I was invited to be a reviewer for CVPR 2021  </br>		   
-		   我受邀担任CVPR 2021审稿人 </p></li>
-		   
-		   <li><p>I was invited to be a reviewer for WACV 2021  </br>		   
-		   我受邀担任WACV 2021审稿人 </p></li>
-		   
-		   <li><p> New blood injected to our group! Welcome Shengwei ZHONG, Lei WANG, Zhenyuan CHEN, Yongliang DING, Hao XIANG!  </br>
-		   课题组迎来新鲜血液！欢迎钟圣唯、王磊、陈震元、丁永良、向豪！</p></li>
-		   
-		   <li><p> I gave a talk at JSCC 2020</br>
-		   我在第九届江苏省计算机大会作学术报告</p></li>
-		   
-		   <li><p> I was invited to be a sponsorship chair for PRCV 2020 </br>
-		   我受邀担任PRCV 2020赞助主席</p></li>
-		   
-		   <li><p> I was invited to be a PC member for AAAI 2021 </br>
-		   我受邀担任AAAI 2021程序委员会成员</p></li>
-		   
-		   <li><p> I was invited to be a PC member for AISTATS 2021 </br>
-		   我受邀担任AISTATS 2021程序委员会成员</p></li>
-		   
-		   <li><p> Our group won the 3rd place of CVPR 2020 Learning from Imperfect Data (LID) challenge (Track of Weakly-supervised Object Localization)! </br>
-		   团队获得CVPR 2020不完备数据竞赛弱监督目标定位项目季军！</p></li>	
-		   		   
-		   <li><p> I gave a talk at the workshop@CCDM 2020 </br>
-		   我在中国数据挖掘会议“低质量数据挖掘与学习”论坛作学术报告</p></li>		   
-		   
-		   <li><p> The invention patent "A new method of multi lane detection" has been granted! </br>
-		   发明专利《一种多车道线检测新方法》获得授权！</p></li>
-		   
-		   <li><p> I was invited to be a SPC for IJCAI 2021 </br>
-		   我受邀担任IJCAI 2021高级程序委员会成员</p></li>
-		   
-		   <li><p> I was invited to be a reviewer for JMLR </br>
-		   我受邀担任国际期刊JMLR审稿人</p></li>
-		   
-		   <li><p> The application for CCF-Tencent Open Fund has been approved! </br>
-		   申请的CCF-腾讯犀牛鸟基金获批！</p></li>
-		   
-		   <li><p>Our paper "Coupled bilinear discriminant projection for cross-view gait recognition" was selected as a ESI highly cited paper! </br>
-		   论文"Coupled bilinear discriminant projection for cross-view gait recognition"被评选为ESI高被引论文（本领域世界前1%的论文）！ </p></li>
-		   
-		   <li><p>I will serve as a reviewer for ICLR 2021! </br>
-		   我受邀担任ICLR 2021审稿人. </p></li>
-		   
-		   <li><p>Our paper "Learning to acquire the quality of human pose estimation" was accepted by IEEE T-CSVT! </br>		   
-		   论文"Learning to acquire the quality of human pose estimation"被IEEE T-CSVT录用！ </p></li>
-		   
-		   <li><p>Our paper "Multi-modal curriculum learning for semi-supervised image classification" was selected as a ESI highly cited paper! </br>
-		   论文"Multi-modal curriculum learning for semi-supervised image classification"被评选为ESI高被引论文（本领域世界前1%的论文）！ </p></li>
-		   <!-- <li><p>Call for application to <a href="https://www.comp.hkbu.edu.hk/v1/?page=hkpfs-info" target="_blank">HKBU - Hong Kong PhD Fellowship Scheme (HKPFS)</a>.</p></li>
-		   <li><p>Oct 2019: I will give a talk <a href="https://cbs.riken.jp/en/events/theoryworkshop/" target="_blank">"Robust Deep Learning: Challenges and New Directions"</a> at<br>
-		   Workshop: Theory towards Brains, Machines and Minds, Center for Brain Science, RIKEN. </p></li>
-		   <li><p>Sep 2019: I will serve as a PC member for AISTATS'20. </p></li>
-		   <li><p>Sep 2019: I will give a talk "Robust Deep Learning: Challenges and New Directions" at<br>
-		   International Research Center for Neurointelligence, The University of Tokyo. </p></li>
-		   <li><p>Sep 2019: I will co-organize ACML 2019 Challenge on <a href="https://www.4paradigm.com/competition/autowsl2019" target="_blank">AutoWSL</a><br>
-		   (with Quanming Yao, Wei-Wei Tu, Isabelle Guyon, and Qiang Yang). </p></li>
-		   <li><p>Sep 2019: Paper <a href="https://arxiv.org/abs/1906.00189" target="_blank">"T-Revision"</a> is accepted to NeurIPS'19. Congrats, all co-authors!</p></li>
-		   <li><p>Aug 2019: I will co-organize ACML 2019 Workshop on <a href="http://www.acml-conf.org/2019/workshops/weakly-supervised/" target="_blank">Weakly-supervised Learning</a><br>
-		   (with Gang Niu, Quanming Yao, Giogio Patrini, Aditya Menon, Clayton Scott and Masashi Sugiyama). </p></li>
-		   <li><p>Aug 2019: I will co-organize ACML 2019 Tutorial on <a href="http://www.acml-conf.org/2019/tutorials/tsang-han/" target="_blank">Towards Noisy Supervision</a> (with Ivor W. Tsang).</p></li>
-		   <li><p>Aug 2019: I will serve as a PC member for AAAI'20. </p></li>
-		   <li><p>Jul 2019: I will serve as a PC member for ICLR'20. </p></li> -->
-        </ul>
-    </div>
-
-    <div>
-        <h2><hr><a name="research"></a>Research (研究领域)</h2>
-
-<!-- <ul>
-I am co-supervising <a href="https://bhanml.github.io/group.html" target="_blank">Research Group</a> at RIKEN-AIP.
-</ul> -->
-
-<ul>
-My research interests lie in machine learning, data mining, and learning-based vision problems. Particularly, I'm interested in weakly-supervised learning and its applications, such as semi-supervised learning, positive-unlabeled learning, label noise learning, partial label learning, etc.
-</ul>
-
-<ul>
- 我的研究方向主要为机器学习、数据挖掘及基于学习的计算机视觉问题。特别地，我关注弱监督学习方法及其应用，比如半监督学习、PU学习、标签噪声学习、偏标记学习等。
-</ul>
-<!-- <ul> -->
-<!-- <li><p>Weakly-supervised Machine Learning: How can we train complex models robustly using weakly-supervised information?</p></li> -->
-<!-- <li><p>Security, Privacy and Robustness in Machine Learning: How can we preserve the security, privacy and robustness in training complex models?</p></li> -->
-<!-- <li><p>Automated Machine Learning: How can we reason about intelligent systems without human intervention?</p></li> -->
-<!-- <li><p>Interdisciplinary Problems: How can we apply the above fundamental research to the healthcare domain?</p></li> -->
-<!-- </ul> -->
-<!-- <img src="wordcloud-beta.jpg" alt="wordcloud" /> -->
-</div>
-
-    <!-- <div> -->
-        <!-- <h2><hr><a name="tutorials-workshops"></a>Workshops, Tutorials and Challenges</h2> -->
-        <!-- <ul> -->
-		   <!-- <li><p>ACML 2019 Workshop on <a href="http://www.acml-conf.org/2019/workshops/weakly-supervised/" target="_blank">Weakly-supervised Learning</a> (with Gang Niu, Quanming Yao, Giogio Patrini, Aditya Menon, Clayton Scott and Masashi Sugiyama).</p></li> -->
-		   <!-- <li><p>ACML 2019 Tutorial on <a href="http://www.acml-conf.org/2019/tutorials/tsang-han/" target="_blank">Towards Noisy Supervision: Problems, Theories, and Algorithms</a> (with Ivor W. Tsang).</p></li> -->
-		   <!-- <li><p>ACML 2019 Challenge on <a href="https://www.4paradigm.com/competition/autowsl2019" target="_blank">AutoML for Weakly-supervised Learning (AutoWSL)</a> (with Quanming Yao, Wei-Wei Tu, Isabelle Guyon, and Qiang Yang).</p></li> -->
-        <!-- </ul> -->
-    <!-- </div> -->
-
-
-
-<!--    <div>
-        <h2><hr><a name="talks"></a>Representative Talks</h2>
-        <ul>
-            <li><p>
-                Co-teaching<br>
-                <iframe width="230" height="150" src="https://www.youtube.com/embed/T3HNz2VXHMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </p></li>
-            <li><p>
-                Masking<br>
-                <iframe width="230" height="150" src="https://www.youtube.com/embed/T3HNz2VXHMk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </p></li>
-            <li><p>
-               Towards Robust Deep Learning. Hong Kong Baptist University, Hong Kong, 2018.12, [<a href="https://www.comp.hkbu.edu.hk/v1/?page=seminars&id=497" target="_blank">link</a>].
-            </p></li>
-            <li><p>
-               Towards Robust Deep Learning. Fourth Paradigm Inc., China, 2018.11, [<a href="papers/slides_RDL.pdf" target="_blank">PDF</a>].
-            </p></li>
-            <li><p>
-                When Robust Deep Learning Meets Noisy Labels. University of Tokyo, Japan, 2018.10.
-            </p></li>
-            <li><p>
-                Robust Deep Learning with Noisy Labels. National University of Singapore, Singapore, 2018.9,
-                [<a href="https://aip.riken.jp/news/nussoc_jointws/" target="_blank">link</a>].
-            </p></li>
-             <li><p>
-                Robust Deep Learning with Noisy Labels. Nanjing University, China, 2018.9, [<a href="https://keysoftlab.nju.edu.cn/7d/0f/c1578a294159/page.htm" target="_blank">link</a>].
-            </p></li>
-            <li><p>
-                Learning from Imperfect Supervision. Hong Kong Baptist University, Hong Kong, 2018.5.
-            </p></li>
-        </ul>
-    </div>-->
-
- 
-
-<!--        <div>
-        <h2><hr><a name="edu"></a>Sponsors</h2>
-        <ul>
-            <li><p>
-               Australian Research Council (2015.2 - 2019.2)<br>
-                My Ph.D. research is supported by ARC FT130100746, DP180100106 and LP150100671 (Prof. Tsang's grants).<br>
-            </p></li>
-            <li><p>
-                Global Business College of Australia (2018.8 - 2018.9)<br>
-                My KDD'18 related  research is supported by Global Business College of Australia (4,000 AUD).<br>
-            </p></li>
-        </ul>
-    </div>-->
-
-    <div>
-    <h2><hr><a name="sponsors"></a>Sponsors (资助机构)</h2>
-    <img src="nsfc.jpg" alt="NSFC" />
-    <!-- <img src="arc-beta.jpg" alt="Australian Research Council" />
-    <img src="logo-gbca-beta.jpg" alt="Global Business College of Australia" /> -->
-    <img src="antfinancial.jpg" alt="Ant-Financial" />
-	<img src="casc.jpg" alt="CASC" />
-	<img src="njust.png" alt="NJUST" />
-	<img src="tencent.jpg" alt="TENCENT" />
-    </div>
-<script src="//t1.extreme-dm.com/f.js" id="eXF-goodgc-0" async defer></script>
-<!--Theme from <a href="https://www.cc.gatech.edu/~lsong/" target="_blank">Prof. Le Song</a>-->
-</td>
-</tr>
-</table>
-</body>
+<html>
+  <tr>
+    <td width="50%">
+      <body>
+        <img src="/zhaopian.png" width="23%" style="float:right;" /> 
+      <font style="font-family:黑体" font size="6">吴涛  Wu Tao</font><br />
+      <font style="font-family:黑体" font size="4">博士、副教授、硕士生导师</font><br />
+      <font style="font-family:黑体" font size="4">重庆邮电大学 网络空间安全与信息法学院</font><br />
+      <font style="font-family:黑体" font size="4">网络空间与信息安全重庆市重点实验室</font><br />
+      <font style="font-family:黑体" font size="4">重庆市南岸区崇文路2号 重庆邮电大学</font><br /> 
+      <font style="font-family:黑体" font size="4">邮箱：wutao@cqupt.edu.cn</font><br />
+      <font style="font-family:黑体" font size="4">电话：+86 15884569957</font><br />
+        </body>
+    </td>
+    </tr>
 </html>
+
+
+  
+<html>  
+      <h1><font size="5">个人简介</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">重庆邮电大学副教授，硕士生导师。中国计算机学会(CCF)、中国人工智能学会（CAAI）、电气电子工程师学会（IEEE）会员。主要研究方向：图机器学习、智能算法安全、知识图谱与知识计算、数据隐私保护等研究。近五年来，已在国内外权威期刊和会议上正式发表学术论文30余篇，包括Knowledge-Based Systems、Neurocomputing、自动化学报等。主持国家重点研发计划子课题、国家自然科学基金项目、重庆市自然科学基金面上项目、重庆市教委科技项目及横向课题等8项。申请国家发明专利10余项，已授权5项，获四川省科技进步二等奖1项。相关成果应用于智慧城市、智能电网、智慧文博等领域。担任Knowledge-Based Systems（KBS），China Communication, Physica A，Tinghua Science and Technology等十余个国际期刊评审。荣获重庆邮电大学2020年优秀教师奖、2020年重庆市事业单位年度优秀奖、重庆邮电大学2021年优秀共产党员奖。</font><br />     
+    </body>
+</html> 
+
+<html>  
+      <h1><font size="5">主要研究领域</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">数据挖掘与机器学习</font><br />  
+     <font style="font-family:Lucida Sans Unicode" font size="3">&nbsp;&nbsp;（a）图数据挖掘，包括可预测性、链路预测、社团检测、信息传播等；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="3">&nbsp;&nbsp;（b）图机器学习，包括开放环境下的模型算法、可解释性研究；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="3">&nbsp;&nbsp;（c）知识计算：实体、关系抽取；自动问答；关系推理；  </font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="3">&nbsp;&nbsp;（d）手写体识别，包括古文本识别与处理等；</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">智能安全与隐私保护</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="3">&nbsp;&nbsp;（a）图数据隐私保护研究；</font><br /> 
+     <font style="font-family:Lucida Sans Unicode" font size="3">&nbsp;&nbsp;（b）图模型安全，包括对抗攻击方法、实证分析、鲁棒性模型设计研究。</font><br />
+    </body>
+</html> 
+
+ <html>  
+      <h1><font size="5">科研项目资助</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+<font style="font-family:Lucida Sans Unicode" font size="3">[1]国家自然科学基金青年项目，网络重构与调控算法研究及其隐私保护应用（61802039），2019.01-2021.12，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[2]国家重点研发计划，电力系统边缘计算的安全防护技术研究（2018YFB0903905）， 2018.07-2021.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[3] 重庆市自然科学基金面上项目，面向开放环境的图模型算法安全防护关键技术研究（cstc2020jcyj-msxmX0803），2020.07-2023.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[4]重庆市教委项目，网络大数据去燥增强关键技术研究（KJQN201800630），2018.07-2021.06【提前结题】</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[5]重庆邮电大学人才引进启动基金，网络推理重构与安全调控理论、算法和应用研究，（A2017-131）,2017.07-2020.07，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[6] 横向项目,大规模鲁棒可信文博知识图谱构建及应用，2020.07-2021.06，在研，主持</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[7]国家社会科学基金青年项目，人工智能产业核心技术突破中的创新共同体构建与协同机制研究，2021.01-2023.12，主研，排名第2</font><br />
+<font style="font-family:Lucida Sans Unicode" font size="3">[8] 横向项目, 大规模鲁棒性三峡文化知识图谱平台，2020.07-2021.12，在研，主持</font><br />
+    </body>
+</html> 
+
+<html>  
+      <h1><font size="5">取得研究基础</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">依托“国家自然科学基金”和“国家重点研发计划”项目，开展了“边缘计算数据隐私与安全防护”方面理论与技术研究，搭建了基于NVIDIA Jetson TX2的边缘计算平台，探索图数据、时序数据相关智能算法的安全性。具体成果包括：<br /> 
+● 基于对抗攻击分析链路预测算法的鲁棒性。相关论文列表如下：<br /> 
+[1]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 3.07). <br /> 
+摘要：本文研究网络链路推理算法的鲁棒性问题。通过网络数据分析，提出了基于随机行走对抗样本生成方法。根据黑盒攻击的思想，此方法通过随机行走对网络链路进行评分，从而选择、扰动具有代表性的网络链路，从而生成与具体链路推理方法无关的对抗网络。通过在多个代表性链路推理算法上的实验表明，本文提出的对抗攻击方法性能良好，不依赖关于链路推理算法的先验知识。此研究揭示了当前链路推理算法的脆弱性，也为后续设计鲁棒性的网络链路推理算法提供了指导。<br /> 
+[2]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2019 (In Review).<br /> 
+摘要：为了保护网络数据中的敏感关系、防御推理攻击，许多网络结构扰动方法被提出。然而，面向基于链路预测的推理攻击，存在的网络结构扰动方法的鲁棒性仍没有被充分研究。本文首先概述了代表性的网络结构扰动及链路预测方法。其次，本文提出基于多层线性编码的链路预测方法MLLC。本文基于实证分析探索了网络结构扰动方法的脆弱性。与传统链路预测方法相比，MLLC能够有效推理隐含的敏感关系，证明了强化网络结构扰动方法鲁棒程度的必要性。<br /> 
+[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetLRC: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2019 (In Review).<br /> 
+摘要：基于低秩稀疏理论进行网络建模，探索网络数据的内在规律性，并提出网络可预测性度量。提出面向链路预测的链路重要性度量方法。基于此度量，生成对抗网络。在代表性链路预测算法上的实验表明，此对抗网络生成方法能够有效降低链路预测方法的性能。同时，实验证明此方法具有良好的迁移性。<br /> 
+[4]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Shui Yu, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Network Prediction Models. Neurocomputing, 2020 (In Review).<br /> 
+摘要：近年来的研究揭示了机器学习算法对于对抗样本的脆弱性，引起了计算机视觉、文本挖掘等领域对于机器学习安全问题的研究。然而，对具有广泛应用前景的链路预测算法的安全问题没有充分关注。本文研究网络链路预测算法的对抗攻击问题，提出基于深度集成编码的链路预测对抗攻击算法DEC。实验表明，此对抗攻击算法能够明显抑制链路预测算法的性能。基于此方法，可以评价链路预测算法的鲁棒性。<br /> 
+● 研究边缘计算时序数据预测算法的鲁棒性。相关论文列表如下：<br /> 
+[1]王雪纯，吴涛. 智能电网中边缘终端数据隐私保护方法【J】, 南方电网技术, 2019.<br /> 
+ 摘要：本文研究时序数据预测算法的对抗攻击问题，提出了一个基于相似性度量的扰动攻击方法。实验结果表明，此方法能够在可接受的攻击代价下有效降低对于时序数据预测的准确性。本文基于以上成果，提出了电网领域用电信息的隐私保护方案。</font><br />
+    </body>
+</html> 
+
+<html>  
+      <h1><font size="5">成果应用</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">论文方面，通过近五年的研究与积累，发表论文20余篇，凝练出图挖掘（复杂网络）、数据隐私保护以及智能安全共三个研究方向。</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">● 图数据挖掘（复杂网络）：随着社交媒体以及智慧城市等相关应用的普及与发展，海量的网络数据对传统数据挖掘技术提出了新的挑战。本人关注网络数据分析领域的基础科学问题，包括社团检测[1]、节点排序[2] [3]、链路预测[3] [5]、信息传播问题[6-10]。基于图进行网络数据建模，希望通过对以上相关问题的研究，为网络数据这种新型数据的分析与利用提供技术支撑；</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">社团检测[Physica A’2016]、节点排序[Physica A’ 2017, Physica A’ 2018]、链路预测[3] [5]、信息传播问题[6-10]</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[1]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,338:68-80 (SCI, Impact Factor: 2.132).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[2]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 372:33-52 (SCI, Impact Factor: 2.132).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[3]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.233 ).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[4]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:123533.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[5]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,365:662-672 (SCI, Impact Factor: 2.132).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[6]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 3.396 ).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[7]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. https://doi.org/10.1063/1.5113853.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[8]Shuai Zhang, Wei Wang, Tao Wu, and Tao Lin, Phase transition of a generalized contact process on complex Networks. Physica A, 2019, 533:122218.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[9]Shuang Zhang, Tao Wu, Wei Wang, and Tao Lin. Irreversible contact process on complex networks with dynamical recovery probability, Physica A, 527, 121336, 2019 (SCI, Impact Factor: 2.500).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[10]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 33(12).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">● 数据隐私保护: 在大数据时代，数据带来了巨大价值的同时,也带来了用户隐私保护方面的难题，如何在数据开发应用的过程中保护用户隐私和防止敏感信息泄露成为新的挑战。本人依托“国家自然科学基金”项目，在传统表格类数据k-anonimity、l-diversity 、t-closeness和ε-differential privacy等方法的基础上，研究图数据的隐私保护问题，特别关注敏感关系的隐私保护，包括敏感关系推理[11]、网络可预测性度量[12]、抗推理攻击的结构调控与隐私保护[13] [13]；</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[11]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:93575-93593. (SCI, Impact Factor: 3.098).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[12]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020 (Accepted).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[13]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 3.07). </font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[14]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetLRC: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020 (Accepted).</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">● 智能安全防护: 伴随着社会智能化程度的提升，电力、交通、医疗等基础设施领域越来越依赖于智能应用系统。然而，当前研究领域对于智能算法的鲁棒性、安全性及可解释性问题尚未获得成熟认知，相关智能应用存在安全风险。本人依托“国家重点研发计划”项目，关注“电力系统边缘计算的安全防护技术”，搭建边缘计算环境，研究电力系统智能算法对抗攻击[15][16]、异常检测[17]、可搜索加密[18]等问题。</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[15]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[16]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Network Prediction Models. Neurocomputing, 2020.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[17]王雪纯，吴涛. 智能电网中边缘终端数据隐私保护方法【J】, 南方电网技术, 2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[18]胡志伟, 吴涛. 面向电力边缘数据分析的图分类算法研究进展【J】,  2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[19]朱静, 吴涛. 面向智能电网边缘计算的密文多关键字检索方法【J】,  2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[20]郭延文, 吴涛, 袁野. 基于Bi-LSTM家庭用电量预测【J】,  2019.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[21]李锦涛, 吴涛. 基于动态时间规整的智能电网边缘数据去重技术【J】,2019.</font><br />     
+    </body>
+</html> 
+
+ <html>  
+      <h1><font size="5">会议论文</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+<font style="font-family:Lucida Sans Unicode" font size="3">[1]Qun Liu, Xingping Xian, Songtao Guo, Tao Wu. Research on Cooperative Packet Forwarding and Punishment Mechanism in Wireless Sensor Networks [C]. IEEE International Conference on Granular Computing, 2010. (EI)</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[2]Qun Liu, Xingping Xian, Tao Wu, Game theoretic approach in routing protocol for cooperative wireless sensor networks [C], International Conference in Swarm Intelligence 2011: Advances in Swarm Intelligence, Berlin, Heidelberg, 2011. (EI 000309138700025)</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[3]Tao Wu, Leiting Chen, Yayong Guan, Xin Li, Yuxiao Guo. LPA based Hierarchical Community Detection [C], IEEE 17th International Conference on Computational Science and Engineering (CSE), Chengdu, 19-21 Dec. 2015 (EI 000380512100031).</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[4]Yayong Guan, Tao Wu, Jin Ning, Hong-Bin Cai. Hybrid attributes similarity measurement for spectral clustering [C], 11th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), Chengdu, 19-21 Dec. 2013 (EI, 20151700788332).</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[5]Guannan Ming, Tao Wu, Xiaofeng  Liao, Xingping Xian. Structural Predictability Regulation for Graph data[C], IEEE 3rd International Conference on Electronic Information Technology and Computer Engineering. IEEE, 2019.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[6]Jing Zhu, Tao Wu, Jintao Li, Yanbin Liu, Qixin Jiang. Multi-keyword Cipher-text Retrieval Method for Smart Grid Edge Computing, 会议，2020</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[7]Yanwen Guo, Tao Wu, Yanbin Liu, Yixin Jiang. Univariate Forecasting Based on Improved Seq2Seq at the Edge of Power Grid, 会议，2020</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[8]王雪纯, 黄少平, 许爱东, 吴涛, 郭延文, 蒋屹新, 张宇男. 智能电网中边缘终端数据隐私保护方法【J】,南方电网技术, 2020, 13 (3) :73-79.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[9]Aidong Xu, Xuechun Wang, Yunan Zhang, Tao Wu, Xingping Xian. Adversarial Attacks on Deep Neural Networks for Time Series Prediction, ICICSE, 2021.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[10]Aidong Xu, Tao Wu, Yunan Zhang, Zhiwei Hu, Yixin Jiang. Graph-Based Time Series Edge Anomaly Detection in Smart Grid，BigDataSecurity, 2021.</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[11]Yunan Zhang, Tao Wu and Xingping Xian. A Brief Survey on Privacy-Preserving Methods for Graph-Structured Data, ICIVIS2021</font><br />     
+    </body>
+</html> 
+
+<html>  
+    <h1><font size="5">代表性论文</font></h1>  
+    <body>  
+        <hr />  
+    </body>
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">[1]Tao Wu(#), Xuechun Wang, Shaojie Qiao(*), Xingping Xian(*), Yanbing Liu, Aidong Xu, Liang Zhang. Small Perturbations are Enough: Adversarial Attacks on Time Series Prediction. Information Sciences, 2021.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[2]Xiaoming Ye, Shaojie Qiao, Nan Han, Kun Yue, Tao Wu, Li Yang, Faliang Huang,Chang-an Yuan. Algorithm for Detecting Anomalous Hosts Based on Group Activity Evolution, Knowledge-Based Systems, 2021:213,106733.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[3]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Chao Wang, Yanbing Liu. Deep Ensemble Coding: Adversarial Attacks against Structure Prediction Models. Neurocomputing , 2021: 337,168–185. （中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[4]Xingping Xian, Tao Wu(*), Wei Wang, Chao Wang, Yonggang Xiao, Yanbing Liu, Guangxia Xu. Towards Link Inference Attack Against Network Structure Perturbation. Knowledge-Based Systems, 2020,218:106673.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[5]Xingping Xian, Tao Wu(*), Shaojie Qiao, Xi-Zhao Wang, Wei Wang, Yanbing Liu. NetSRE: Link Predictability Measuring and Regulating. Knowledge-Based Systems, 2020, 196: 105800.（中科院SCI一区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[6][18]Dingxiang Liu, Shaojie Qiao, Nan Han, Tao Wu, Rui Mao, Yongqing Zhang, Changan Yuan, Yueqiang Xiao. SOTB: Semi-Supervised Oversampling Approach Based on Trigonal Barycenter Theory. IEEE Access, 2020, 8: 50180-50189.（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[7]Chao Wang, Wenxiong Peng, Weihua Liu, Linyun Xiong, Tao Wu, Zhang Huaiqing, Zhao Wu, Lili Yu. An Adaptive FHMM Model for Non-Intrusive Load Monitoring. International Journal of Electrical Power and Energy Systems, 2020 (In Review).</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[8]Shaojie Qiao, Nan Han, Jianbin Huang, Kun Yue, Tao Wu, Rui Mao, Chang-an Yuan. Information Processing and Management, 2020 (In Review).</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[9]Shaojie Qiao, Haiquan Song, Faliang Huang, Tao Wu, Kun Yue, Rui Mao, Chang-an Yuan. A Hybrid Imbalanced Classification Approach by Combining Metric Learning. Engineering Applications of Artificial Intelligence, 2020 (In Review).</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[10]Xing Chen, Tao Wu(*), Xingping Xian, Chao Wang, Ye Yuan, Guannan Ming. Enhancing robustness of link prediction for noisy complex networks, Physica A, 2020, 555:123533.[1]（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[11]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 3.396 ).（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[12]Xingping Xian, Tao Wu(*), Shaojie Qiao, Wei Wang, Yanbing Liu, Nan Han. Multi-View Low-Rank Coding based Structural De-anonymization for Privacy Preserving. IEEE Access, 2020 , 8:93575-93593. (SCI, Impact Factor: 3.098).（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[13]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, 2019, 7: 92119-92136 (SCI, Impact Factor: 3.07). （中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[14]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.233 ).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[15]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 372:33-52 (SCI, Impact Factor: 2.132).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[16]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Predicting the evolution of complex networks via similarity dynamics[J]. Physica A, 2017,365:662-672 (SCI, Impact Factor: 2.132).（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[17]Tao Wu (#)(*), Yuxiao Guo, Leiting Chen and Yanbing Liu. Integrated structure investigation in complex networks by label propagation[J]. Physica A, 2016,338:68-80 (SCI, Impact Factor: 2.132). （中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[18]熊熙, 乔少杰, 吴涛, 吴越, 韩楠, 张海清. 基于时空特征的社交网络情绪传播分析与预测模型[J]. 自动化学报, 2018, 33(12) :2290-2299.</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[19]Wei Wang, Yuanhui Ma, Tao Wu, Yang Dai, Xingshu Chen, and Lidia A. Braunstein. Containing misinformation spreading in temporal social networks. Chaos, 2019, 29:123131. (SCI, Impact Factor: 2.633).（中科院SCI二区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[20]Shuai Zhang, Wei Wang, Tao Wu, and Tao Lin, Phase transition of a generalized contact process on complex Networks. Physica A, 2019, 533:122218.（中科院SCI三区）</font><br /> 
+  <font style="font-family:Lucida Sans Unicode" font size="3">[21]Shuang Zhang, Tao Wu, Wei Wang, and Tao Lin. Irreversible contact process on complex networks with dynamical recovery probability, Physica A, 527, 121336, 2019 (SCI, Impact Factor: 2.500).（中科院SCI三区）</font><br /> 
+    </body>
+</html> 
+
+
+
+  <html>  
+      <h1><font size="5">代表性论文摘要</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">[1]Tao Wu (#)(*), Guannan Ming, Xingping Xian, Wei Wang, Shaojie Qiao, Guangxia Xu. Structural Predictability Optimization Against Inference Attacks in Data Publishing. IEEE Access, vol. 7, pp. 92119-92136, 2019 (SCI, Impact Factor: 3.07). <br />  
+摘要：基于图结构预测可以推理个体之间的潜在关系。为了保护敏感关系、防止推理攻击，在数据发布过程中有必要调控图数据的可预测性。本文基于主动学习思想和随机游走过程，选择、扰动具有代表性的网络链路，从而调控图的可预测性。另外，本文还基于低秩稀疏理论提出图结构可预测性度量方法，以指导图结构的扰动调控。实验证明本文提出的方法可以有效降低图数据中敏感关系被推理攻击的风险。</font><br />  
+<font style="font-family:Lucida Sans Unicode" font size="3">[2]Tao Wu (#)(*), Xingping Xian, Linfeng Zhong, Xi Xiong, H. Eugene Stanley. Power iteration ranking via hybrid diffusion for vital nodes identification[J]. Physica A, 2018, 506:802-815 (SCI, Impact Factor: 2.233 ).<br />  
+摘要：中心性度量旨在量化节点在复杂系统中对于系统组织结构和功能的重要性。本文将两个具有互补特性的物理过程与经典特征向量中心性相结合，从而提出PIRank算法。在真实网络上的实验结果表明，PIRank比其他方法性能更好。与特征向量中心性相比，PIRank算法可以在保持相似运行时间的同时，将性能提高约30％，同时可以避免特征向量中心性的局部性问题。</font><br />  
+<font style="font-family:Lucida Sans Unicode" font size="3">[3]Tao Wu (#)(*), Leiting Chen, Linfeng Zhong, Xingping Xian. Enhanced collective influence: A paradigm to optimize network disruption[J]. Physica A, 2017, 372:33-52 (SCI, Impact Factor: 2.132).<br />  
+摘要：复杂网络的功能通常取决于底层结构的完整性。为了有效破坏网络结构、影响网络功能，Morone和Makse（Nature Communications，2015）提出了一种称为CI的中心性度量方法。通过实验分析，我们发现CI中心性忽略了本地网络拓扑的结构特征。通过考虑环路密度和度多样性，本文提出了ECI中心性方法。实验结果表明ECI具有良好性能。同时发现，ECI的性能与网络异质系数和社团模块度正相关，与网络节点度异构性负相关。</font><br />  
+<font style="font-family:Lucida Sans Unicode" font size="3">[4]Tao Wu (#)(*), Leiting Chen, Xingping Xian, Yuxiao Guo. Evolution prediction of multi-scale information diffusion dynamics[J]. Knowledge-Based Systems, 2016,113:186-198 (SCI, Impact Factor: 3.396 ). <br />  
+摘要：信息传播在各种复杂网络系统中普遍不在，了解信息传播过程对于优化网络结构和调控网络功能至关重要。然而，至今为止人们对信息传播的内在机理仍不清楚。本文提出多尺度传播预测（MScaleDP）方法。MScaleDP基于单向标签传播算法聚合本地转发决策行为，通过对本地转发行为建模，发现了信息传播过程的主要影响因素和底层驱动机制。%此外，我们发现传播预测的准确性并不总是随着特征数量的增长而增加。当考虑了足够多的数据特征时，传播预测的准确性与具体转发决策模型不存在强相关性。最终基于新浪微博数据，验证了本文工作。</font><br />     
+    </body>
+</html> 
+
+
+
+<html>  
+    <h1><font size="5">发明专利</font></h1>  
+    <body>  
+        <hr />  
+    </body>
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">[1]吴涛，先兴平，徐光侠，明冠男，朱静，王雪纯，蒋龙生. 一种社交网络的异常检测与优化方法、系统及计算机设备. 受理号: 201910539606.3.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[2]吴涛，李锦涛，朱静，刘勇，王雪纯，马创.一种基于电力系统的时序数据压缩与恢复方法.受理实审, 202011203819.1，2021.02.05.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[3]吴涛，朱静，先兴平，许爱东，刘宴兵，宋秀丽，张宇南. 一种基于边缘协同分类的时序数据检索方法. 受理号:202110279377.8</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[4]吴涛、朱静、先兴平、许爱东、马红玉、冯柏林、王宇轩. 一种基于卷积神经网络的改进元学习的关系预测方法.受理号:202110357268.0</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[5]吴涛、先兴平、许爱东、骆俊辉、杨楠、马红玉、姜丰. 一种图网络分类模型的训练方法、装置、系统及电子设备. 受理号:专利申请号或专利号：202110321332.3</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[6]先兴平，明冠男，吴涛，徐光侠，朱静，王雪纯，邓伟韬. 一种面向隐私保护的网络结构去匿名化系统及方法. 受理号: 201910509388.0. 授权</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[7]先兴平、吴涛、许爱东、刘宴兵、吴渝、张宇南、王雪纯，时序数据对抗样本生成方法、系统、电子设备及存储介质. 受理号:202110353068.X</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[8]明冠男，吴涛，董倩，朱静，王雪纯，陈幸. 基于电力信息系统网络调控机制的隐私保护方法. 受理号: 201910509301.2.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[9]陈幸，吴涛，先兴平，明冠男. 一种基于矩阵分解的网络结构去匿名化系统及方法. 受理号:201911131539.8</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[10]许爱东，吴涛，蒋屹新，朱静，曹扬. 一种可搜索加密的数据检索方法及系统. 受理号: 201910263985.1.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[11]李鹏，吴涛，许爱东，郭延文，明哲，徐光侠，先兴平. 面向电力系统中边缘节点的轻量级数据管理系统及方法. 受理号: 201811636585.0.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[12]许爱东，吴涛，张宇南，胡志伟，曹扬，先兴平. 基于边缘终端的角色访问控制系统. 受理号:201811636506.6.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[13]明哲，吴涛，许爱东，李锦涛，蒋屹新，先兴平. 基于边缘计算的滑动块重复数据删除方法. 受理号:201811630913.9.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[14]许爱东，吴涛，李鹏，王雪纯，张宇南，先兴平. 基于电力系统边缘计算的隐私保护方法及系统与流程. 授权号: ZL201811636532.2.</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[15]陈幸、吴涛、先兴平、明冠男、许爱东. 一种电力信息网络关键信息传输链路识别方法及其系统. 受理号:201910990836.3</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[16]唐昌伦、赵卓、田侃、张殊、张晨、吴涛、张浩然、王宇轩.一种基于分阶段查询的知识图谱常识问答方法及系统. 受理号：202110372835.3</font><br />
+  <font style="font-family:Lucida Sans Unicode" font size="3">[17]田侃、唐昌伦、赵卓、张殊、张晨、先兴平、游小琳、廖嘉欣.一种基于卷积神经网络的文物知识关系抽取方法. 受理号：202110355378.3</font><br />
+    </body>
+</html> 
+
+  <html>  
+      <h1><font size="5">教育教学情况</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+ <font style="font-family:Lucida Sans Unicode" font size="3">[1]主讲本科生课程《Python应用》、《程序设计综合实践》;</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[2] 主讲研究生课程《数据隐私与社交网络》;</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[3] 主持教材建设项目《Python数据分析与应用》；</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[4] 主持试题库建设项目《Python应用课程试题库建设与实践》；</font><br /> 
+<font style="font-family:Lucida Sans Unicode" font size="3">[5] 主持本科“金课”建设项目《Python应用》；</font><br />     
+    </body>
+</html> 
+
+  <html>  
+      <h1><font size="5">荣誉及奖项</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">● 重庆邮电大学2019-2020学年“优秀教师”奖</font><br /> 	  
+  <font style="font-family:Lucida Sans Unicode" font size="3">● 四川省科学技术进步奖“科技进步类二等奖”</font><br /> 	  
+  <font style="font-family:Lucida Sans Unicode" font size="3">● 国际期刊Knowledge-Based Systems最佳审稿人奖（中科院SCI一区）</font><br />   
+    </body>
+</html> 
+  
+
+ <html>  
+      <h1><font size="5">出版书籍</font></h1>  
+    <body>  
+        <hr />  
+    </body> 
+  <body>
+  <font style="font-family:Lucida Sans Unicode" font size="3">● Python数据分析与应用，吴涛、徐光侠、刘俊编著，同济大学出版社，2019.08, ISBN 978-7-5608-8673-2.</font><br />     
+    </body>
+</html> 
+
