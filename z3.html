@@ -65,6 +65,9 @@
 			 <font size="4">
 知识图谱补全：补全知识图谱中缺失的实体或者关系，主要通过关系预测来实现；
 少样本关系预测：因知识图谱中存在长尾现象，为了实现更好的补全效果，需要在少样本的情况下进行关系预测，通过少量的参照样本预测实体对是否具有某种关系。<br />
+				 基于表示学习的多跳知识问答：给定自然语言问题，首先通过对问题进行语义解析，得到其主题词和问题的嵌入表示；然后以主题词节点为中心，
+				 把H跳以内的节点都作为候选答案节点，然后通过表示学习来得到候选节点信息的特征信息；
+				 最后通过评分函数来得到候选答案节点和问题的匹配程度，评分高的作为答案。<br />
 				 </font>
         </ul>
 					 </body>
@@ -86,6 +89,7 @@
 		 <ul>
 			 <font size="4">
                           GMatching 、MetaR、FAAN<br />
+				 BAMnet、STAGG、MHGRN、R-GCN<br />
 				 </font>
         </ul>
 					 </body>
@@ -106,9 +110,9 @@
 				 <div style="width:1400px;line-height:32px;">
 		 <ul>
 			 <font size="4">
-                          实验环境：Pytorch<br />
-		         数据资源：Wiki、NELL 数据集<br />
-                         评价指标：MRR、Hit@n<br />
+                          实验环境：Pytorch、Pycharm<br />
+		         数据资源：Wiki、NELL 数据集、知识图谱（Freebase）、WebQuestions数据集、ComplexWebQuestions数据集<br />
+                         评价指标：MRR、Hit@n、F1分数<br />
 				 </font>
         </ul>
 					 </body>
