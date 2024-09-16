@@ -38,6 +38,12 @@ ol li::before {
 	margin-bottom: 0px;
 }
 
+.section {
+	line-height: 32px;
+	width: 98%;
+	text-align: justify;
+}
+
 table#tlayout {
 	width: 100%;
 	border: none;
